@@ -118,21 +118,10 @@ node src/server.mjs verify-quote --repo <根> --text "..."  # quote 校验调试
 级3 宿主集成：startup_brief 挂宿主自动注入槽；quote 验证源切换为宿主签名（R1 收口件，优先级最高）。
 ```
 
-## 使用流程（agent 侧速览）
-
-1. `startup_brief`（醒来持旧窗口；flux 直读、T2 倒计时、decisive 对齐校验一并完成）
-2. 讨论/修改中："X 应有变化" → `claim_record`（只入队）；会话关闭 → `dialog_extract`
-3. 重构意向 → `propose_checklist` → **使用者确认** → `checklist_confirm(quote)`
-4. 执行期照常干活，零评估
-5. 使用者宣告完成 → `episode_close(quote)` → `assess_open('T1')` → 逐节点 `assess_submit`（每笔带证据）→ `assess_publish`
-6. 满 5 对话未收口 → T2 全评；每 10 评估自动出报表；定期 `audit`
-
-## 开发与测试
+```
+这是一个测试版本，不保证与正式版的兼容性。以及测试版存在一大堆问题。因为数学端还没决定，也就是没想好，所以集成进入大模型或者更深接入还不现实。还有，这是AI写的代码，bug等异常不会少。
 
 ```
-node test/yaml_roundtrip.mjs   # YAML 子集往返
-node test/smoke.mjs            # 25 步端到端演练（覆盖 I1–I12、规则1–9、清单周期、双轨退出、P7 篡改检出）
-node test/showcase.mjs         # 打印一份真实启动卡
-```
+邵昆（shaokun） 2894670027@qq.com  辅助工具：AI大模型、agent。
 
-零运行时依赖（Node ≥20）。`src/` 结构：`yaml.mjs`（子集编解码）· `util.mjs`（ref/hash/token/quote 归一）· `dialogs.mjs`（P7 链+三态校验）· `repo.mjs`（INDEX/锁/账本/快照）· `scoring.mjs`（归一/脏扫描/边缘区/三分类）· `core.mjs`（16+2 工具状态机）· `tools.mjs`（schema/分发/角色裁剪）· `server.mjs`（JSON-RPC stdio + CLI）。
+
