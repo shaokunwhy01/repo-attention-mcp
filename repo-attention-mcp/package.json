@@ -1,0 +1,20 @@
+{
+  "name": "repo-attention-mcp",
+  "version": "2.0.0",
+  "description": "记忆力-注意力聚焦 MCP 服务（REFACTOR-v2）：注意力引导（brief/expand/lookup/timeline）+ 归账（note/anchor）。节点构成一棵树，引导逐层下钻；唯一真相是只追加的 events.jsonl，index.yaml 是派生缓存。确定性作业（scan/sweep/progress/audit/migrate）走独立 CLI，MCP 工具面保持 6 个。",
+  "type": "module",
+  "main": "src/server.mjs",
+  "bin": {
+    "repo-attention-mcp": "src/server.mjs",
+    "ra": "src/cli.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node test/smoke.mjs && node test/yaml_roundtrip.mjs",
+    "start": "node src/server.mjs",
+    "ra": "node src/cli.mjs"
+  },
+  "license": "MIT"
+}

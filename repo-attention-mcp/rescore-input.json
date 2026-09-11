@@ -1,0 +1,2642 @@
+{
+  "cell_sim/actors.py": [
+    {
+      "node": "cell_sim/actors.py#_fill_levels",
+      "ref": "proj://codebuddyCELL/cell_sim/actors.py:41-59#_fill_levels",
+      "src_hash": "sha256:9a6265989466cd3a8c14b4f892a45fabdbdd786b11dbcaf50db3f3c5c0e72f84",
+      "current_raw": 0.1467,
+      "start": 41,
+      "end": 59,
+      "anchor": "_fill_levels"
+    },
+    {
+      "node": "cell_sim/actors.py#ActorTarget",
+      "ref": "proj://codebuddyCELL/cell_sim/actors.py:60-76#ActorTarget",
+      "src_hash": "sha256:5e5c4075ef81489238aeaffaea1c4b20eb071d9d232fd0f6e75dff67b0896586",
+      "current_raw": 0.1467,
+      "start": 60,
+      "end": 76,
+      "anchor": "ActorTarget"
+    },
+    {
+      "node": "cell_sim/actors.py#Actor",
+      "ref": "proj://codebuddyCELL/cell_sim/actors.py:77-310#Actor",
+      "src_hash": "sha256:6454c39bb3a68920bf6ffde8ad45b9bb2d866bba2427b40ac65c16349f8a6eb3",
+      "current_raw": 0.1467,
+      "start": 77,
+      "end": 310,
+      "anchor": "Actor"
+    },
+    {
+      "node": "cell_sim/actors.py#_ate",
+      "ref": "proj://codebuddyCELL/cell_sim/actors.py:311-316#_ate",
+      "src_hash": "sha256:874e441015972b564d4afec704882d3466c366aa693376d8289a95544bb78447",
+      "current_raw": 0.1467,
+      "start": 311,
+      "end": 316,
+      "anchor": "_ate"
+    },
+    {
+      "node": "cell_sim/actors.py#load_actor",
+      "ref": "proj://codebuddyCELL/cell_sim/actors.py:317-435#load_actor",
+      "src_hash": "sha256:0aa08ff27330f1e03039eea1fe8aa4b203e03e7d67b3447840b69477c9c16599",
+      "current_raw": 0.1467,
+      "start": 317,
+      "end": 435,
+      "anchor": "load_actor"
+    },
+    {
+      "node": "cell_sim/actors.py#load_actors",
+      "ref": "proj://codebuddyCELL/cell_sim/actors.py:436-439#load_actors",
+      "src_hash": "sha256:43bb6c38c2a0a3225b2cf8a7a54ed26154d41adb293027fe35c2b971d8e9f7d9",
+      "current_raw": 0.1467,
+      "start": 436,
+      "end": 439,
+      "anchor": "load_actors"
+    }
+  ],
+  "cell_sim/body/model.py": [
+    {
+      "node": "cell_sim/body/model.py#_p",
+      "ref": "proj://codebuddyCELL/cell_sim/body/model.py:38-42#_p",
+      "src_hash": "sha256:b97cc62d0cc63a7ecd003e7c10e699268899b1aa882e3d8cca4c8fe2a5919e40",
+      "current_raw": 0.46,
+      "start": 38,
+      "end": 42,
+      "anchor": "_p"
+    },
+    {
+      "node": "cell_sim/body/model.py#BodyModel",
+      "ref": "proj://codebuddyCELL/cell_sim/body/model.py:43-282#BodyModel",
+      "src_hash": "sha256:48018b7c2a591a3a61b058b60ccac54844f32185c4a5c4b5797e18db693b5a56",
+      "current_raw": 0.46,
+      "start": 43,
+      "end": 282,
+      "anchor": "BodyModel"
+    }
+  ],
+  "cell_sim/core/engine.py": [
+    {
+      "node": "cell_sim/core/engine.py#c_raw",
+      "ref": "proj://codebuddyCELL/cell_sim/core/engine.py:34-49#c_raw",
+      "src_hash": "sha256:4c7d5168ecba76191b144126540b9f8a46df1facf69523d46b529d2cef60ec35",
+      "current_raw": 0.0571,
+      "start": 34,
+      "end": 49,
+      "anchor": "c_raw"
+    },
+    {
+      "node": "cell_sim/core/engine.py#ell",
+      "ref": "proj://codebuddyCELL/cell_sim/core/engine.py:50-58#ell",
+      "src_hash": "sha256:1a3193ccef013ed7aae96a8dc62ec0225c78077b76297ae4441d6d279009c20b",
+      "current_raw": 0.0571,
+      "start": 50,
+      "end": 58,
+      "anchor": "ell"
+    },
+    {
+      "node": "cell_sim/core/engine.py#modulation",
+      "ref": "proj://codebuddyCELL/cell_sim/core/engine.py:59-75#modulation",
+      "src_hash": "sha256:30e0c5ccecf45170af16b948589e128ad071ddd3b84a5edaae86eaafe463be2b",
+      "current_raw": 0.0571,
+      "start": 59,
+      "end": 75,
+      "anchor": "modulation"
+    },
+    {
+      "node": "cell_sim/core/engine.py#fold_unit",
+      "ref": "proj://codebuddyCELL/cell_sim/core/engine.py:76-97#fold_unit",
+      "src_hash": "sha256:4a26e6833e72bae8684b2b881cd73e97573c5f3edb23fb2831d2863d73c4a7c0",
+      "current_raw": 0.0571,
+      "start": 76,
+      "end": 97,
+      "anchor": "fold_unit"
+    },
+    {
+      "node": "cell_sim/core/engine.py#combine",
+      "ref": "proj://codebuddyCELL/cell_sim/core/engine.py:98-113#combine",
+      "src_hash": "sha256:74b284cda8da62ade91acbef49d0c52c114c42fa38c59c19514fccb4606e709a",
+      "current_raw": 0.0571,
+      "start": 98,
+      "end": 113,
+      "anchor": "combine"
+    },
+    {
+      "node": "cell_sim/core/engine.py#G_eff",
+      "ref": "proj://codebuddyCELL/cell_sim/core/engine.py:114-125#G_eff",
+      "src_hash": "sha256:63ea49e744a92d4fef51e469b02934f8bdc1ee4f3696a5f98888683c066846ca",
+      "current_raw": 0.0571,
+      "start": 114,
+      "end": 125,
+      "anchor": "G_eff"
+    },
+    {
+      "node": "cell_sim/core/engine.py#J_eff",
+      "ref": "proj://codebuddyCELL/cell_sim/core/engine.py:126-137#J_eff",
+      "src_hash": "sha256:4fc472f17ca498c5f974cca73ba9c81f7439844be6fcf552a98f7ba0476700c2",
+      "current_raw": 0.0571,
+      "start": 126,
+      "end": 137,
+      "anchor": "J_eff"
+    },
+    {
+      "node": "cell_sim/core/engine.py#delta_components",
+      "ref": "proj://codebuddyCELL/cell_sim/core/engine.py:138-150#delta_components",
+      "src_hash": "sha256:7e4984ad04e7d4ba388b6b1664852990e79d21842e9952cc11528f4459ee14bd",
+      "current_raw": 0.0571,
+      "start": 138,
+      "end": 150,
+      "anchor": "delta_components"
+    },
+    {
+      "node": "cell_sim/core/engine.py#delta_ate",
+      "ref": "proj://codebuddyCELL/cell_sim/core/engine.py:151-161#delta_ate",
+      "src_hash": "sha256:5c7b799fcc5fbefa7ba8f2358af9ab686f2ae0de38b0cc00cdff12a2c1195bb3",
+      "current_raw": 0.0571,
+      "start": 151,
+      "end": 161,
+      "anchor": "delta_ate"
+    },
+    {
+      "node": "cell_sim/core/engine.py#T_n",
+      "ref": "proj://codebuddyCELL/cell_sim/core/engine.py:162-177#T_n",
+      "src_hash": "sha256:d5291562fc65fa7a03d021dbb0ea00c8bfb0869f9e23a91fee05fd3d3f42f36d",
+      "current_raw": 0.0571,
+      "start": 162,
+      "end": 177,
+      "anchor": "T_n"
+    },
+    {
+      "node": "cell_sim/core/engine.py#aggregate_ate",
+      "ref": "proj://codebuddyCELL/cell_sim/core/engine.py:178-200#aggregate_ate",
+      "src_hash": "sha256:9b8745085f06b4b676488b9ddedf54cbad19b6879ab3a5f43d2a8a85198e680b",
+      "current_raw": 0.0571,
+      "start": 178,
+      "end": 200,
+      "anchor": "aggregate_ate"
+    },
+    {
+      "node": "cell_sim/core/engine.py#SteadyDetector",
+      "ref": "proj://codebuddyCELL/cell_sim/core/engine.py:201-269#SteadyDetector",
+      "src_hash": "sha256:14838ac0ecafea60233b1fe7d576e22cc710b0a058834805a47e5e37b65e015c",
+      "current_raw": 0.0571,
+      "start": 201,
+      "end": 269,
+      "anchor": "SteadyDetector"
+    },
+    {
+      "node": "cell_sim/core/engine.py#_solve_psd",
+      "ref": "proj://codebuddyCELL/cell_sim/core/engine.py:270-289#_solve_psd",
+      "src_hash": "sha256:9e4625b7045f23a124a47016480513379a877e54eae1e1ab1a31228f018552e7",
+      "current_raw": 0.0571,
+      "start": 270,
+      "end": 289,
+      "anchor": "_solve_psd"
+    },
+    {
+      "node": "cell_sim/core/engine.py#project_composition",
+      "ref": "proj://codebuddyCELL/cell_sim/core/engine.py:290-325#project_composition",
+      "src_hash": "sha256:e01c494623045b1b8c474a01c9d8c448f5b99aaf49fa2599dac3abe1289897f1",
+      "current_raw": 0.0571,
+      "start": 290,
+      "end": 325,
+      "anchor": "project_composition"
+    },
+    {
+      "node": "cell_sim/core/engine.py#c_sys_relative",
+      "ref": "proj://codebuddyCELL/cell_sim/core/engine.py:326-337#c_sys_relative",
+      "src_hash": "sha256:92bd171e6b362ecb373bb2a584ca4f5bbb9e2020d268b6c80e143a0ade0ebec5",
+      "current_raw": 0.0571,
+      "start": 326,
+      "end": 337,
+      "anchor": "c_sys_relative"
+    },
+    {
+      "node": "cell_sim/core/engine.py#normalize_alpha",
+      "ref": "proj://codebuddyCELL/cell_sim/core/engine.py:338-350#normalize_alpha",
+      "src_hash": "sha256:31f6eacbe11cd9630fb152e0b728703fe641bb75465b3e69f4d8db523d111822",
+      "current_raw": 0.0571,
+      "start": 338,
+      "end": 350,
+      "anchor": "normalize_alpha"
+    },
+    {
+      "node": "cell_sim/core/engine.py#displacement_metrics",
+      "ref": "proj://codebuddyCELL/cell_sim/core/engine.py:351-361#displacement_metrics",
+      "src_hash": "sha256:c49bc0fbd405a84d6907d63a1bef5b3d2b6e779b186f8895b6fa289c11a45c40",
+      "current_raw": 0.0571,
+      "start": 351,
+      "end": 361,
+      "anchor": "displacement_metrics"
+    }
+  ],
+  "cell_sim/diagrams.py": [
+    {
+      "node": "cell_sim/diagrams.py#tn_color",
+      "ref": "proj://codebuddyCELL/cell_sim/diagrams.py:21-29#tn_color",
+      "src_hash": "sha256:f0a26e749e2d6a2091251ddf817bdd6ef134a819ab2a0e8982d22295d16033bc",
+      "current_raw": 0.0875,
+      "start": 21,
+      "end": 29,
+      "anchor": "tn_color"
+    },
+    {
+      "node": "cell_sim/diagrams.py#impact_color",
+      "ref": "proj://codebuddyCELL/cell_sim/diagrams.py:30-41#impact_color",
+      "src_hash": "sha256:9889cafcece889fe06cd6c868a41621b3d1062d0d08572edd8770bf334c6f23d",
+      "current_raw": 0.0875,
+      "start": 30,
+      "end": 41,
+      "anchor": "impact_color"
+    },
+    {
+      "node": "cell_sim/diagrams.py#_wrap",
+      "ref": "proj://codebuddyCELL/cell_sim/diagrams.py:42-46#_wrap",
+      "src_hash": "sha256:0200fb27ca064904528429b29b06d307d134a2a732c03d3f7c222dc9a5708b84",
+      "current_raw": 0.0875,
+      "start": 42,
+      "end": 46,
+      "anchor": "_wrap"
+    },
+    {
+      "node": "cell_sim/diagrams.py#_esc",
+      "ref": "proj://codebuddyCELL/cell_sim/diagrams.py:47-52#_esc",
+      "src_hash": "sha256:554b546be12c49b3f853e90616c501c0e0c0229f0607b233f55ac0ccab3ec11e",
+      "current_raw": 0.0875,
+      "start": 47,
+      "end": 52,
+      "anchor": "_esc"
+    },
+    {
+      "node": "cell_sim/diagrams.py#_axis_ticks",
+      "ref": "proj://codebuddyCELL/cell_sim/diagrams.py:53-59#_axis_ticks",
+      "src_hash": "sha256:15ca0c056caf8971998a8f9624deeac43c18b350d3dd28f4c4ddbf2ee240b885",
+      "current_raw": 0.0875,
+      "start": 53,
+      "end": 59,
+      "anchor": "_axis_ticks"
+    },
+    {
+      "node": "cell_sim/diagrams.py#ct_svg",
+      "ref": "proj://codebuddyCELL/cell_sim/diagrams.py:60-121#ct_svg",
+      "src_hash": "sha256:d8dc1840f5fec8d6fd26a614e90f691b9dd68de2df1b2fa8227391d1fec89912",
+      "current_raw": 0.0875,
+      "start": 60,
+      "end": 121,
+      "anchor": "ct_svg"
+    },
+    {
+      "node": "cell_sim/diagrams.py#path_svg",
+      "ref": "proj://codebuddyCELL/cell_sim/diagrams.py:122-217#path_svg",
+      "src_hash": "sha256:cce95059c7516a471d82d2bad6b70e889d7f3ce134f9e25a5778e2aa8a70a3ef",
+      "current_raw": 0.0875,
+      "start": 122,
+      "end": 217,
+      "anchor": "path_svg"
+    },
+    {
+      "node": "cell_sim/diagrams.py#series_svg",
+      "ref": "proj://codebuddyCELL/cell_sim/diagrams.py:218-281#series_svg",
+      "src_hash": "sha256:ecc482c5f0d7cfb35757dcfef151603700afa6c8a9358338a7c57f9f47cd4793",
+      "current_raw": 0.0875,
+      "start": 218,
+      "end": 281,
+      "anchor": "series_svg"
+    }
+  ],
+  "cell_sim/dynamics.py": [
+    {
+      "node": "cell_sim/dynamics.py#_load_dynamics_cfg",
+      "ref": "proj://codebuddyCELL/cell_sim/dynamics.py:52-55#_load_dynamics_cfg",
+      "src_hash": "sha256:81e8b49a3df2a51fa617ffaee739455361262c496ea23ee1793616d4c1f33481",
+      "current_raw": 0.188,
+      "start": 52,
+      "end": 55,
+      "anchor": "_load_dynamics_cfg"
+    },
+    {
+      "node": "cell_sim/dynamics.py#build_pairs",
+      "ref": "proj://codebuddyCELL/cell_sim/dynamics.py:56-74#build_pairs",
+      "src_hash": "sha256:32bc94d1fb0dbf83bcbbe122bf6e8de0a83cdbbc6b985e8cb36cac75b7ba6659",
+      "current_raw": 0.188,
+      "start": 56,
+      "end": 74,
+      "anchor": "build_pairs"
+    },
+    {
+      "node": "cell_sim/dynamics.py#default_steps",
+      "ref": "proj://codebuddyCELL/cell_sim/dynamics.py:75-79#default_steps",
+      "src_hash": "sha256:e103dd35f280fbd352dc7589e4d33c45bfc9f31393e1c180509a220dc210b7ed",
+      "current_raw": 0.188,
+      "start": 75,
+      "end": 79,
+      "anchor": "default_steps"
+    },
+    {
+      "node": "cell_sim/dynamics.py#Simulation-1",
+      "ref": "proj://codebuddyCELL/cell_sim/dynamics.py:80-329#Simulation-1",
+      "src_hash": "sha256:cf57a0713be6eebcbe21357c8100046bf0b28f786f7e32c89c9473d3c58ce391",
+      "current_raw": 0.188,
+      "start": 80,
+      "end": 329,
+      "anchor": "Simulation-1"
+    },
+    {
+      "node": "cell_sim/dynamics.py#Simulation-2",
+      "ref": "proj://codebuddyCELL/cell_sim/dynamics.py:330-575#Simulation-2",
+      "src_hash": "sha256:628766fed90139d1d260c5e50d30a17e9215e6216fc12813102289cf8b322330",
+      "current_raw": 0.188,
+      "start": 330,
+      "end": 575,
+      "anchor": "Simulation-2"
+    }
+  ],
+  "cell_sim/output/runs.json": [
+    {
+      "node": "cell_sim/output/runs.json#blk-1",
+      "ref": "proj://codebuddyCELL/cell_sim/output/runs.json:1-250#blk-1",
+      "src_hash": "sha256:329b2d6a85f80a3dc7e5718c1639f5229810f9809580c3b0ffbab0be08b3adc8",
+      "current_raw": 0.14,
+      "start": 1,
+      "end": 250,
+      "anchor": "blk-1"
+    },
+    {
+      "node": "cell_sim/output/runs.json#blk-2",
+      "ref": "proj://codebuddyCELL/cell_sim/output/runs.json:251-293#blk-2",
+      "src_hash": "sha256:9ca9cb6801706a8fdaf99a70d7073122651ed25013fa80e3d329e10ff303b604",
+      "current_raw": 0.14,
+      "start": 251,
+      "end": 293,
+      "anchor": "blk-2"
+    }
+  ],
+  "cell_sim/runner.py": [
+    {
+      "node": "cell_sim/runner.py#_ts",
+      "ref": "proj://codebuddyCELL/cell_sim/runner.py:42-45#_ts",
+      "src_hash": "sha256:8069f87f745d68fc6c8d83c67cdc54decc72a6048108d80317bcf4bc6ce82927",
+      "current_raw": 0.06,
+      "start": 42,
+      "end": 45,
+      "anchor": "_ts"
+    },
+    {
+      "node": "cell_sim/runner.py#_data_hashes",
+      "ref": "proj://codebuddyCELL/cell_sim/runner.py:46-64#_data_hashes",
+      "src_hash": "sha256:553127869a97ede5ebcb69c091b76799f1474ef4511ff84f4851ce740d6cafb9",
+      "current_raw": 0.06,
+      "start": 46,
+      "end": 64,
+      "anchor": "_data_hashes"
+    },
+    {
+      "node": "cell_sim/runner.py#read_csv",
+      "ref": "proj://codebuddyCELL/cell_sim/runner.py:65-70#read_csv",
+      "src_hash": "sha256:ecf75c90359460d3f0dbf03c563a2871823d3bdee9f5c952cd7cccd3f376f119",
+      "current_raw": 0.06,
+      "start": 65,
+      "end": 70,
+      "anchor": "read_csv"
+    },
+    {
+      "node": "cell_sim/runner.py#classify",
+      "ref": "proj://codebuddyCELL/cell_sim/runner.py:71-85#classify",
+      "src_hash": "sha256:a1b78bb00c080d8eebcf2a31ade1e6504c0c0191df99ad482e830205c9ab78e2",
+      "current_raw": 0.06,
+      "start": 71,
+      "end": 85,
+      "anchor": "classify"
+    },
+    {
+      "node": "cell_sim/runner.py#_record",
+      "ref": "proj://codebuddyCELL/cell_sim/runner.py:86-99#_record",
+      "src_hash": "sha256:07ab1e676e54bea6b10bb051cc4d3e6e9b2f4a5593228ad83be82cf21b153a47",
+      "current_raw": 0.06,
+      "start": 86,
+      "end": 99,
+      "anchor": "_record"
+    },
+    {
+      "node": "cell_sim/runner.py#_actor_info",
+      "ref": "proj://codebuddyCELL/cell_sim/runner.py:100-114#_actor_info",
+      "src_hash": "sha256:77ed015d33312444b0a262e1e0457ed51d2b2996b250f84c58d7d8e043e1242c",
+      "current_raw": 0.06,
+      "start": 100,
+      "end": 114,
+      "anchor": "_actor_info"
+    },
+    {
+      "node": "cell_sim/runner.py#_events_json",
+      "ref": "proj://codebuddyCELL/cell_sim/runner.py:115-129#_events_json",
+      "src_hash": "sha256:1ad68bd9946cb62fe26b9fc74f610621e10898bdf84b377a7f664b965a0bc099",
+      "current_raw": 0.06,
+      "start": 115,
+      "end": 129,
+      "anchor": "_events_json"
+    },
+    {
+      "node": "cell_sim/runner.py#_env_impact",
+      "ref": "proj://codebuddyCELL/cell_sim/runner.py:130-147#_env_impact",
+      "src_hash": "sha256:0d24e74c56a07602d39a6f6c39e9d81890cda2bb684d19077f1d79e38943647a",
+      "current_raw": 0.06,
+      "start": 130,
+      "end": 147,
+      "anchor": "_env_impact"
+    },
+    {
+      "node": "cell_sim/runner.py#_depth",
+      "ref": "proj://codebuddyCELL/cell_sim/runner.py:148-170#_depth",
+      "src_hash": "sha256:1d1150b50122baed35cae070c531a35ce9edf5456ef65abc06f8822cf2064c22",
+      "current_raw": 0.06,
+      "start": 148,
+      "end": 170,
+      "anchor": "_depth"
+    },
+    {
+      "node": "cell_sim/runner.py#_impact_verdict",
+      "ref": "proj://codebuddyCELL/cell_sim/runner.py:171-205#_impact_verdict",
+      "src_hash": "sha256:38b41c5edf7d2134fe19760e1b781f7608583774ab617310c00ac0305ea31eed",
+      "current_raw": 0.06,
+      "start": 171,
+      "end": 205,
+      "anchor": "_impact_verdict"
+    },
+    {
+      "node": "cell_sim/runner.py#run_sim",
+      "ref": "proj://codebuddyCELL/cell_sim/runner.py:206-336#run_sim",
+      "src_hash": "sha256:541ecdeb9af83130afe90a8e0d37f832f01ac250aa17c558aa1a078dbbaebcfa",
+      "current_raw": 0.06,
+      "start": 206,
+      "end": 336,
+      "anchor": "run_sim"
+    },
+    {
+      "node": "cell_sim/runner.py#run_body",
+      "ref": "proj://codebuddyCELL/cell_sim/runner.py:337-435#run_body",
+      "src_hash": "sha256:4e196e0c879d0804bfba551260cbc22884c244931d6f748a7c009c4da677d8ec",
+      "current_raw": 0.06,
+      "start": 337,
+      "end": 435,
+      "anchor": "run_body"
+    },
+    {
+      "node": "cell_sim/runner.py#read_run",
+      "ref": "proj://codebuddyCELL/cell_sim/runner.py:436-457#read_run",
+      "src_hash": "sha256:c34b9c6a1bbadb9efedda754d785ee3369f7e17fef469d2f01fae84aeae69611",
+      "current_raw": 0.06,
+      "start": 436,
+      "end": 457,
+      "anchor": "read_run"
+    },
+    {
+      "node": "cell_sim/runner.py#list_runs",
+      "ref": "proj://codebuddyCELL/cell_sim/runner.py:458-468#list_runs",
+      "src_hash": "sha256:2f357c71947d90b71a3ac21a16afecf3d80cc30dc1561dbf9d8bedff11d359ba",
+      "current_raw": 0.06,
+      "start": 458,
+      "end": 468,
+      "anchor": "list_runs"
+    },
+    {
+      "node": "cell_sim/runner.py#clear_outputs",
+      "ref": "proj://codebuddyCELL/cell_sim/runner.py:469-481#clear_outputs",
+      "src_hash": "sha256:02a7c4f4f734381fbbd0b3cb70abfef45624239403fe93562c0578d2e8567905",
+      "current_raw": 0.06,
+      "start": 469,
+      "end": 481,
+      "anchor": "clear_outputs"
+    }
+  ],
+  "cell_sim/tests/test_core.py": [
+    {
+      "node": "cell_sim/tests/test_core.py#approx",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:11-15#approx",
+      "src_hash": "sha256:eb456307d4991f4e099fb8848ae9f149727ddf41c6ca4d7f91caf86b8036ff34",
+      "current_raw": 0.0241,
+      "start": 11,
+      "end": 15,
+      "anchor": "approx"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#test_ate",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:16-30#test_ate",
+      "src_hash": "sha256:b198e2985101cab9794772884ce337b0e647d5a0a9f62044bd638b7936fdad35",
+      "current_raw": 0.0241,
+      "start": 16,
+      "end": 30,
+      "anchor": "test_ate"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#test_fold_unit",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:31-39#test_fold_unit",
+      "src_hash": "sha256:5ea994d8fe86740232af9bdd2703df3096ad41c38341fee5c7dfe6a4db00ecaa",
+      "current_raw": 0.0241,
+      "start": 31,
+      "end": 39,
+      "anchor": "test_fold_unit"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#test_fold_slips_pinned",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:40-49#test_fold_slips_pinned",
+      "src_hash": "sha256:72a0a5884deeb328451bc01ae2cd7b6cb0050a856d157289ae1990327b0a5929",
+      "current_raw": 0.0241,
+      "start": 40,
+      "end": 49,
+      "anchor": "test_fold_slips_pinned"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#test_combine",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:50-55#test_combine",
+      "src_hash": "sha256:a103834f6e2eb34f37a93945f729e3a9d50d93337db4fc6dc7dcc47ebb8ec858",
+      "current_raw": 0.0241,
+      "start": 50,
+      "end": 55,
+      "anchor": "test_combine"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#test_subunit_ports",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:56-63#test_subunit_ports",
+      "src_hash": "sha256:338fa6fc38dc5be1c1ed457e1fd0149ab1e423f742c5c7a456d89da12bed064c",
+      "current_raw": 0.0241,
+      "start": 56,
+      "end": 63,
+      "anchor": "test_subunit_ports"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#test_boundary_gen",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:64-80#test_boundary_gen",
+      "src_hash": "sha256:be9d1350e201c6796e0dd4e05a8a7becc26f07f96bef4b78fea3feaa9d7e75fb",
+      "current_raw": 0.0241,
+      "start": 64,
+      "end": 80,
+      "anchor": "test_boundary_gen"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#test_npc_gateway_generated",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:81-112#test_npc_gateway_generated",
+      "src_hash": "sha256:c1b3646369e769328ab7a0a722a491ba6ec39347b923e7abc78a773b63019ff2",
+      "current_raw": 0.0241,
+      "start": 81,
+      "end": 112,
+      "anchor": "test_npc_gateway_generated"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#test_wall_then_site",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:113-150#test_wall_then_site",
+      "src_hash": "sha256:1838838efc9ba8a73a41459d8f7cfda5362ac98334cadcdc9bd467bac883bbf8",
+      "current_raw": 0.0241,
+      "start": 113,
+      "end": 150,
+      "anchor": "test_wall_then_site"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#test_active_transport",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:151-185#test_active_transport",
+      "src_hash": "sha256:cd0fbd73b80d6979bd5450adbf282794600fe2e66631db6403345ced2b5c1570",
+      "current_raw": 0.0241,
+      "start": 151,
+      "end": 185,
+      "anchor": "test_active_transport"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#test_bind_mode",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:186-202#test_bind_mode",
+      "src_hash": "sha256:9e2a8f93a232d76b932875775feaf59aa95f7d7bebad346b7843965c66543b4f",
+      "current_raw": 0.0241,
+      "start": 186,
+      "end": 202,
+      "anchor": "test_bind_mode"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#test_boundary",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:203-216#test_boundary",
+      "src_hash": "sha256:3328a24efc8a642aadd66e7b50ffd07207da56c9b50124ba11b5db9c221b9a8f",
+      "current_raw": 0.0241,
+      "start": 203,
+      "end": 216,
+      "anchor": "test_boundary"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#test_G_standard",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:217-223#test_G_standard",
+      "src_hash": "sha256:4bed12a6e11876f65dc0ee20e83f65c2723aac952e4d6533d6eab24fbafb8fcd",
+      "current_raw": 0.0241,
+      "start": 217,
+      "end": 223,
+      "anchor": "test_G_standard"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#test_J_eff_table",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:224-230#test_J_eff_table",
+      "src_hash": "sha256:18438dac7e863edaa8c1b9e53b0d0c28954ba887eb476e5b7678a95537f90664",
+      "current_raw": 0.0241,
+      "start": 224,
+      "end": 230,
+      "anchor": "test_J_eff_table"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#test_data_completeness",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:231-239#test_data_completeness",
+      "src_hash": "sha256:9c3469356e3ae302ce7b2b613fcb04ad9708ed928fb3488b63fb880c005fc62d",
+      "current_raw": 0.0241,
+      "start": 231,
+      "end": 239,
+      "anchor": "test_data_completeness"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#test_actors",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:240-252#test_actors",
+      "src_hash": "sha256:49b922b8d16c0627fa2073dc3bb30c1fa8430006a877d6311d356e60ac904426",
+      "current_raw": 0.0241,
+      "start": 240,
+      "end": 252,
+      "anchor": "test_actors"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#test_actor_sim",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:253-267#test_actor_sim",
+      "src_hash": "sha256:96f5d8ab907894c8e6010d7ec38792d895582481135089565085dd3ea9d69d06",
+      "current_raw": 0.0241,
+      "start": 253,
+      "end": 267,
+      "anchor": "test_actor_sim"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#test_b2_benchmark_ref",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:268-281#test_b2_benchmark_ref",
+      "src_hash": "sha256:9d2e79c6e8c69226079b7e90709fa9bf72254a61ef4bb443e31a13acd972b4e2",
+      "current_raw": 0.0241,
+      "start": 268,
+      "end": 281,
+      "anchor": "test_b2_benchmark_ref"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#test_b2_coupling_tn_symbol",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:282-295#test_b2_coupling_tn_symbol",
+      "src_hash": "sha256:3d0c32be8d3219e0f9b0ff6232fc437ec0d7eeb4dacc0d21f302c4b81333c3a0",
+      "current_raw": 0.0241,
+      "start": 282,
+      "end": 295,
+      "anchor": "test_b2_coupling_tn_symbol"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#test_b3_dynamic_t",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:296-310#test_b3_dynamic_t",
+      "src_hash": "sha256:963ae0e95db3297f8cfbc21032d794554fad50e7e47121049469bd27947545cc",
+      "current_raw": 0.0241,
+      "start": 296,
+      "end": 310,
+      "anchor": "test_b3_dynamic_t"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#test_b3_domain_weight",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:311-323#test_b3_domain_weight",
+      "src_hash": "sha256:e6533053f56ae61afc90ecf29ef8fcfdac689b52e638960b3d896b4d726b20d4",
+      "current_raw": 0.0241,
+      "start": 311,
+      "end": 323,
+      "anchor": "test_b3_domain_weight"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#test_actor_ate_by_level",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:324-358#test_actor_ate_by_level",
+      "src_hash": "sha256:f702d30222f68a11370c373d48559e9249c311de5e78b30225f2eb82d2b38e4f",
+      "current_raw": 0.0241,
+      "start": 324,
+      "end": 358,
+      "anchor": "test_actor_ate_by_level"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#test_theta_stop",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:359-382#test_theta_stop",
+      "src_hash": "sha256:685f019803415823d0226af8192a6a5438991a5939a9389f7db835779154cb49",
+      "current_raw": 0.0241,
+      "start": 359,
+      "end": 382,
+      "anchor": "test_theta_stop"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#test_b6",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:383-401#test_b6",
+      "src_hash": "sha256:0cce53883b76413f94f9b3faf1dd2065b3bfcde077ba1a6c68b57dc27384a89f",
+      "current_raw": 0.0241,
+      "start": 383,
+      "end": 401,
+      "anchor": "test_b6"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#test_runner",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:402-426#test_runner",
+      "src_hash": "sha256:4168b031c5afec91fd2e7d0f39efb97c240c4e6ed016c50b2aa597ca4fadcf32",
+      "current_raw": 0.0241,
+      "start": 402,
+      "end": 426,
+      "anchor": "test_runner"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#_two_level",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:427-446#_two_level",
+      "src_hash": "sha256:9815191368438c4ebb9d89c26ba248b9025bf81e800f5cc38eb2b83c89c8d46e",
+      "current_raw": 0.0241,
+      "start": 427,
+      "end": 446,
+      "anchor": "_two_level"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#test_two_level_conservation",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:447-464#test_two_level_conservation",
+      "src_hash": "sha256:84d2d534ce179917f7cdaa1e30e945e5b77cd2a05ac961ecc68a71026694c2d5",
+      "current_raw": 0.0241,
+      "start": 447,
+      "end": 464,
+      "anchor": "test_two_level_conservation"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#test_two_level_external_drive",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:465-478#test_two_level_external_drive",
+      "src_hash": "sha256:862599f0a4df9ce10e7caddea2dd0be0b75da29bb1ab8349a3f412301e5b34df",
+      "current_raw": 0.0241,
+      "start": 465,
+      "end": 478,
+      "anchor": "test_two_level_external_drive"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#test_exposure_mode_switch",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:479-500#test_exposure_mode_switch",
+      "src_hash": "sha256:b9e96db749f30870d2d0a3e1f7c1b451cee010988af52073708da2821c003993",
+      "current_raw": 0.0241,
+      "start": 479,
+      "end": 500,
+      "anchor": "test_exposure_mode_switch"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#test_body_dosing_guard",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:501-512#test_body_dosing_guard",
+      "src_hash": "sha256:ae481710408c64e3d5df16932f36dbd4c3bb8075175dad8da026c19918ef2585",
+      "current_raw": 0.0241,
+      "start": 501,
+      "end": 512,
+      "anchor": "test_body_dosing_guard"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#test_resolver_views",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:513-537#test_resolver_views",
+      "src_hash": "sha256:ac190b4e5e238cdf832a76722849da369f1fe9674945e60653323d18ced48a84",
+      "current_raw": 0.0241,
+      "start": 513,
+      "end": 537,
+      "anchor": "test_resolver_views"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#test_view_isolation",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:538-548#test_view_isolation",
+      "src_hash": "sha256:58e09ac38cc94143693b0d15f0a96db64644a353dbc132bbdd681b265514382e",
+      "current_raw": 0.0241,
+      "start": 538,
+      "end": 548,
+      "anchor": "test_view_isolation"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#test_run_body",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:549-567#test_run_body",
+      "src_hash": "sha256:d57ea101ef6bb40d9b1d50c8430838ec3410c213323769bdb0816ec7e9ff848e",
+      "current_raw": 0.0241,
+      "start": 549,
+      "end": 567,
+      "anchor": "test_run_body"
+    },
+    {
+      "node": "cell_sim/tests/test_core.py#run_all",
+      "ref": "proj://codebuddyCELL/cell_sim/tests/test_core.py:568-584#run_all",
+      "src_hash": "sha256:994d49a68eb1f93633c36bd383eb173527134b129a66e635cce39b48955c6571",
+      "current_raw": 0.0241,
+      "start": 568,
+      "end": 584,
+      "anchor": "run_all"
+    }
+  ],
+  "cell_sim/web/index.html": [
+    {
+      "node": "cell_sim/web/index.html#section",
+      "ref": "proj://codebuddyCELL/cell_sim/web/index.html:68-92#section",
+      "src_hash": "sha256:74a50bd55662611f605f6f6b08b06c2cb460255543cca4ad3d25d9c4f58ad25a",
+      "current_raw": 0.2067,
+      "start": 68,
+      "end": 92,
+      "anchor": "section"
+    },
+    {
+      "node": "cell_sim/web/index.html#result",
+      "ref": "proj://codebuddyCELL/cell_sim/web/index.html:93-124#result",
+      "src_hash": "sha256:1b5ec43e38d450ce83f2620a48aa939634e52339c9a20bcf59dc05665427efcc",
+      "current_raw": 0.2067,
+      "start": 93,
+      "end": 124,
+      "anchor": "result"
+    },
+    {
+      "node": "cell_sim/web/index.html#section-2",
+      "ref": "proj://codebuddyCELL/cell_sim/web/index.html:125-322#section-2",
+      "src_hash": "sha256:fe9444864217401ec9cd6bdfe03e45085b0781cbfcfd180135232e6b7adfd313",
+      "current_raw": 0.2067,
+      "start": 125,
+      "end": 322,
+      "anchor": "section-2"
+    }
+  ],
+  "Docs/01docs/L0-L3/cell-sim-kinetics.md": [
+    {
+      "node": "Docs/01docs/L0-L3/cell-sim-kinetics.md#前言",
+      "ref": "proj://codebuddyCELL/Docs/01docs/L0-L3/cell-sim-kinetics.md:1-9#前言",
+      "src_hash": "sha256:3ef06ac0eb686f2690c95775672ae850fca0a65488bd329b8bcbc9c3e231fd3b",
+      "current_raw": 0.0715,
+      "start": 1,
+      "end": 9,
+      "anchor": "前言"
+    },
+    {
+      "node": "Docs/01docs/L0-L3/cell-sim-kinetics.md#0.-文档路线图",
+      "ref": "proj://codebuddyCELL/Docs/01docs/L0-L3/cell-sim-kinetics.md:10-26#0.-文档路线图",
+      "src_hash": "sha256:dcf0b8667dae61177368d8eb596c51b0594b6d8f6d8b07a3f528174ec4912435",
+      "current_raw": 0.0715,
+      "start": 10,
+      "end": 26,
+      "anchor": "0.-文档路线图"
+    },
+    {
+      "node": "Docs/01docs/L0-L3/cell-sim-kinetics.md#1.-三亚L4-端口初态取自各数据文档-67",
+      "ref": "proj://codebuddyCELL/Docs/01docs/L0-L3/cell-sim-kinetics.md:27-38#1.-三亚L4-端口初态取自各数据文档-67",
+      "src_hash": "sha256:b85657ffd913763e2f538b2044559579698d8ee5b63f51c2bf88a7b5b05e3829",
+      "current_raw": 0.0715,
+      "start": 27,
+      "end": 38,
+      "anchor": "1.-三亚L4-端口初态取自各数据文档-67"
+    },
+    {
+      "node": "Docs/01docs/L0-L3/cell-sim-kinetics.md#2.-等效动力学方程",
+      "ref": "proj://codebuddyCELL/Docs/01docs/L0-L3/cell-sim-kinetics.md:39-120#2.-等效动力学方程",
+      "src_hash": "sha256:cbec886d61ec10d42f09cf99418c4455b6551d036174f39bf2012abf413c93f2",
+      "current_raw": 0.0715,
+      "start": 39,
+      "end": 120,
+      "anchor": "2.-等效动力学方程"
+    },
+    {
+      "node": "Docs/01docs/L0-L3/cell-sim-kinetics.md#3.-三大组织过程的动力学映射",
+      "ref": "proj://codebuddyCELL/Docs/01docs/L0-L3/cell-sim-kinetics.md:121-203#3.-三大组织过程的动力学映射",
+      "src_hash": "sha256:6ea724318fca08836fc24fc9db550e0b297476b1746646e54a698961cf71cab0",
+      "current_raw": 0.0715,
+      "start": 121,
+      "end": 203,
+      "anchor": "3.-三大组织过程的动力学映射"
+    },
+    {
+      "node": "Docs/01docs/L0-L3/cell-sim-kinetics.md#4.-动力学参数总表",
+      "ref": "proj://codebuddyCELL/Docs/01docs/L0-L3/cell-sim-kinetics.md:204-220#4.-动力学参数总表",
+      "src_hash": "sha256:2fdee86a3ce077d5954a98b6675105a64690e21012fe81e5903bb365ba12856d",
+      "current_raw": 0.0715,
+      "start": 204,
+      "end": 220,
+      "anchor": "4.-动力学参数总表"
+    },
+    {
+      "node": "Docs/01docs/L0-L3/cell-sim-kinetics.md#5.-可观测输出",
+      "ref": "proj://codebuddyCELL/Docs/01docs/L0-L3/cell-sim-kinetics.md:221-245#5.-可观测输出",
+      "src_hash": "sha256:348b6268d121f05ef06f08241d1f841a8d4849d22732cd7959cd83c52d9fe545",
+      "current_raw": 0.0715,
+      "start": 221,
+      "end": 245,
+      "anchor": "5.-可观测输出"
+    },
+    {
+      "node": "Docs/01docs/L0-L3/cell-sim-kinetics.md#6.-初始状态与边界条件",
+      "ref": "proj://codebuddyCELL/Docs/01docs/L0-L3/cell-sim-kinetics.md:246-280#6.-初始状态与边界条件",
+      "src_hash": "sha256:0345ad6772f327930ea93306ab451c83356862e19cda5027b2f5392263b961be",
+      "current_raw": 0.0715,
+      "start": 246,
+      "end": 280,
+      "anchor": "6.-初始状态与边界条件"
+    },
+    {
+      "node": "Docs/01docs/L0-L3/cell-sim-kinetics.md#7.-完整模拟循环伪代码",
+      "ref": "proj://codebuddyCELL/Docs/01docs/L0-L3/cell-sim-kinetics.md:281-325#7.-完整模拟循环伪代码",
+      "src_hash": "sha256:faaaae80f1ac5fba0fa3659b762963ccbfa5a0f0f4d18dc7032f7366ff89c4f5",
+      "current_raw": 0.0715,
+      "start": 281,
+      "end": 325,
+      "anchor": "7.-完整模拟循环伪代码"
+    },
+    {
+      "node": "Docs/01docs/L0-L3/cell-sim-kinetics.md#8.-参数敏感性待后续探索",
+      "ref": "proj://codebuddyCELL/Docs/01docs/L0-L3/cell-sim-kinetics.md:326-337#8.-参数敏感性待后续探索",
+      "src_hash": "sha256:66dcf6c1725ec3fdb7f0f7dddd72cf9c5ca4ed20ce9ea92c8cd8efd693893ba1",
+      "current_raw": 0.0715,
+      "start": 326,
+      "end": 337,
+      "anchor": "8.-参数敏感性待后续探索"
+    },
+    {
+      "node": "Docs/01docs/L0-L3/cell-sim-kinetics.md#10.-包裹体-B6-动力学模式接入2026-07-30",
+      "ref": "proj://codebuddyCELL/Docs/01docs/L0-L3/cell-sim-kinetics.md:338-454#10.-包裹体-B6-动力学模式接入2026-07-30",
+      "src_hash": "sha256:c62eb767f3897d853e00f10a8bde7809fe30e57023907480decddfddd36031b8",
+      "current_raw": 0.0715,
+      "start": 338,
+      "end": 454,
+      "anchor": "10.-包裹体-B6-动力学模式接入2026-07-30"
+    },
+    {
+      "node": "Docs/01docs/L0-L3/cell-sim-kinetics.md#9.-文档引用索引",
+      "ref": "proj://codebuddyCELL/Docs/01docs/L0-L3/cell-sim-kinetics.md:455-472#9.-文档引用索引",
+      "src_hash": "sha256:0f66a844a5a9401f02ea5f32ce26aedea0c7ec403ab4a811961203ca5381bac6",
+      "current_raw": 0.0715,
+      "start": 455,
+      "end": 472,
+      "anchor": "9.-文档引用索引"
+    },
+    {
+      "node": "Docs/01docs/L0-L3/cell-sim-kinetics.md#附录参数文档推理记录2026-07-29",
+      "ref": "proj://codebuddyCELL/Docs/01docs/L0-L3/cell-sim-kinetics.md:473-485#附录参数文档推理记录2026-07-29",
+      "src_hash": "sha256:7af175b14878d980746de48bb0cb462d96f70c053021f6a8e423671f975455a2",
+      "current_raw": 0.0715,
+      "start": 473,
+      "end": 485,
+      "anchor": "附录参数文档推理记录2026-07-29"
+    }
+  ],
+  "Docs/01docs/L0-L3/L0-bio-atomic-benchmark.md": [
+    {
+      "node": "Docs/01docs/L0-L3/L0-bio-atomic-benchmark.md#前言",
+      "ref": "proj://codebuddyCELL/Docs/01docs/L0-L3/L0-bio-atomic-benchmark.md:1-11#前言",
+      "src_hash": "sha256:fb8a85125d58b61d7b34d8fb8703e8df829cfad8caf49aebb077be6ae4d7664c",
+      "current_raw": 0.115,
+      "start": 1,
+      "end": 11,
+      "anchor": "前言"
+    },
+    {
+      "node": "Docs/01docs/L0-L3/L0-bio-atomic-benchmark.md#一L0-编码规则继承不变",
+      "ref": "proj://codebuddyCELL/Docs/01docs/L0-L3/L0-bio-atomic-benchmark.md:12-42#一L0-编码规则继承不变",
+      "src_hash": "sha256:09967ab136c7d2459c4ba2136a52dd8c803db4d8189bbfd6a00e00089cff7aaf",
+      "current_raw": 0.115,
+      "start": 12,
+      "end": 42,
+      "anchor": "一L0-编码规则继承不变"
+    },
+    {
+      "node": "Docs/01docs/L0-L3/L0-bio-atomic-benchmark.md#二生物原子态池细分原则",
+      "ref": "proj://codebuddyCELL/Docs/01docs/L0-L3/L0-bio-atomic-benchmark.md:43-58#二生物原子态池细分原则",
+      "src_hash": "sha256:84ae80147aa6e70a3479e79463e852ed262b230bce41417d8ed559ad82180cc0",
+      "current_raw": 0.115,
+      "start": 43,
+      "end": 58,
+      "anchor": "二生物原子态池细分原则"
+    },
+    {
+      "node": "Docs/01docs/L0-L3/L0-bio-atomic-benchmark.md#三L0-生物基准表S1主表",
+      "ref": "proj://codebuddyCELL/Docs/01docs/L0-L3/L0-bio-atomic-benchmark.md:59-140#三L0-生物基准表S1主表",
+      "src_hash": "sha256:04eb87f3d0d9c6765204631799c018977040f890f5840f1ca5bdd1a4cb0391ba",
+      "current_raw": 0.115,
+      "start": 59,
+      "end": 140,
+      "anchor": "三L0-生物基准表S1主表"
+    },
+    {
+      "node": "Docs/01docs/L0-L3/L0-bio-atomic-benchmark.md#四填表说明与估算规则",
+      "ref": "proj://codebuddyCELL/Docs/01docs/L0-L3/L0-bio-atomic-benchmark.md:141-177#四填表说明与估算规则",
+      "src_hash": "sha256:c2de85387c7d4b9f0d6bb2dd1b3123540159c93db5a414c0771e90e59744362c",
+      "current_raw": 0.115,
+      "start": 141,
+      "end": 177,
+      "anchor": "四填表说明与估算规则"
+    },
+    {
+      "node": "Docs/01docs/L0-L3/L0-bio-atomic-benchmark.md#五待定-开放项待你决策建议进-ADR",
+      "ref": "proj://codebuddyCELL/Docs/01docs/L0-L3/L0-bio-atomic-benchmark.md:178-187#五待定-开放项待你决策建议进-ADR",
+      "src_hash": "sha256:652f4f9cc09fe6fd20164f9370ae9465b3c9702cb086619dd37d0a7776c571ae",
+      "current_raw": 0.115,
+      "start": 178,
+      "end": 187,
+      "anchor": "五待定-开放项待你决策建议进-ADR"
+    },
+    {
+      "node": "Docs/01docs/L0-L3/L0-bio-atomic-benchmark.md#六跨级计算组架构阻塞解2026-07-27-定",
+      "ref": "proj://codebuddyCELL/Docs/01docs/L0-L3/L0-bio-atomic-benchmark.md:188-377#六跨级计算组架构阻塞解2026-07-27-定",
+      "src_hash": "sha256:706d5fdd0e9c0a6ae8e01180c4e9265576519fee05ec4e534e626b7805f9ea59",
+      "current_raw": 0.115,
+      "start": 188,
+      "end": 377,
+      "anchor": "六跨级计算组架构阻塞解2026-07-27-定"
+    },
+    {
+      "node": "Docs/01docs/L0-L3/L0-bio-atomic-benchmark.md#七包裹体原子态回填说明2026-07-30",
+      "ref": "proj://codebuddyCELL/Docs/01docs/L0-L3/L0-bio-atomic-benchmark.md:378-390#七包裹体原子态回填说明2026-07-30",
+      "src_hash": "sha256:8c78316461ad6a3c53d0bae4d71568af3a6ff3d097bbc668cff3018463883cd1",
+      "current_raw": 0.115,
+      "start": 378,
+      "end": 390,
+      "anchor": "七包裹体原子态回填说明2026-07-30"
+    }
+  ],
+  "Docs/01docs/L0-L3/L0-L3-coupling-design.md": [
+    {
+      "node": "Docs/01docs/L0-L3/L0-L3-coupling-design.md#前言",
+      "ref": "proj://codebuddyCELL/Docs/01docs/L0-L3/L0-L3-coupling-design.md:1-11#前言",
+      "src_hash": "sha256:694f9b6bf79161a0ee50ed82e7c0737a6a2b776ac7b206514e698e9f73864015",
+      "current_raw": 0.0978,
+      "start": 1,
+      "end": 11,
+      "anchor": "前言"
+    },
+    {
+      "node": "Docs/01docs/L0-L3/L0-L3-coupling-design.md#一耦合架构继承不变",
+      "ref": "proj://codebuddyCELL/Docs/01docs/L0-L3/L0-L3-coupling-design.md:12-41#一耦合架构继承不变",
+      "src_hash": "sha256:aae1dd0726d71501528fedec32ead4859d405094a3ce135c06e562356b1f30ab",
+      "current_raw": 0.0978,
+      "start": 12,
+      "end": 41,
+      "anchor": "一耦合架构继承不变"
+    },
+    {
+      "node": "Docs/01docs/L0-L3/L0-L3-coupling-design.md#二构建算法5-步",
+      "ref": "proj://codebuddyCELL/Docs/01docs/L0-L3/L0-L3-coupling-design.md:42-75#二构建算法5-步",
+      "src_hash": "sha256:2f5882c86d1948e64e0ced72ae150ab43639f547cc30617f49f9bd2256e58aa8",
+      "current_raw": 0.0978,
+      "start": 42,
+      "end": 75,
+      "anchor": "二构建算法5-步"
+    },
+    {
+      "node": "Docs/01docs/L0-L3/L0-L3-coupling-design.md#三生物体系特有改造本文核心",
+      "ref": "proj://codebuddyCELL/Docs/01docs/L0-L3/L0-L3-coupling-design.md:76-115#三生物体系特有改造本文核心",
+      "src_hash": "sha256:6d6dd39c5f7c995b0fb978c7c70614edcc7af85385ea6f6c19e072403b012a4e",
+      "current_raw": 0.0978,
+      "start": 76,
+      "end": 115,
+      "anchor": "三生物体系特有改造本文核心"
+    },
+    {
+      "node": "Docs/01docs/L0-L3/L0-L3-coupling-design.md#四可计算-mini-示例肌肉收缩纵向切片示意",
+      "ref": "proj://codebuddyCELL/Docs/01docs/L0-L3/L0-L3-coupling-design.md:116-136#四可计算-mini-示例肌肉收缩纵向切片示意",
+      "src_hash": "sha256:f4ed19932ec1c13aa4f758fb7abfd3e253e8b90d3558b201177ecbf24a020848",
+      "current_raw": 0.0978,
+      "start": 116,
+      "end": 136,
+      "anchor": "四可计算-mini-示例肌肉收缩纵向切片示意"
+    },
+    {
+      "node": "Docs/01docs/L0-L3/L0-L3-coupling-design.md#五待定旋钮表对齐原文-10.6",
+      "ref": "proj://codebuddyCELL/Docs/01docs/L0-L3/L0-L3-coupling-design.md:137-151#五待定旋钮表对齐原文-10.6",
+      "src_hash": "sha256:64197bc7cb8f2d3b00d6b1ea14fb308647d3416f58eabd3366426bc22c8fd1e7",
+      "current_raw": 0.0978,
+      "start": 137,
+      "end": 151,
+      "anchor": "五待定旋钮表对齐原文-10.6"
+    },
+    {
+      "node": "Docs/01docs/L0-L3/L0-L3-coupling-design.md#六下一步",
+      "ref": "proj://codebuddyCELL/Docs/01docs/L0-L3/L0-L3-coupling-design.md:152-159#六下一步",
+      "src_hash": "sha256:79f088da38ddcd1ea92cec7cd60255e177d8d5ba9148dd6078d4d32157964c10",
+      "current_raw": 0.0978,
+      "start": 152,
+      "end": 159,
+      "anchor": "六下一步"
+    },
+    {
+      "node": "Docs/01docs/L0-L3/L0-L3-coupling-design.md#七边界原则对齐四份基准表",
+      "ref": "proj://codebuddyCELL/Docs/01docs/L0-L3/L0-L3-coupling-design.md:160-168#七边界原则对齐四份基准表",
+      "src_hash": "sha256:db66262df56e5622332416e8e272bc3dd2000288a9ddd3f69bea566e882850d3",
+      "current_raw": 0.0978,
+      "start": 160,
+      "end": 168,
+      "anchor": "七边界原则对齐四份基准表"
+    },
+    {
+      "node": "Docs/01docs/L0-L3/L0-L3-coupling-design.md#八多-L4-亚体交互-独立个体交互架构2026-07-28-新",
+      "ref": "proj://codebuddyCELL/Docs/01docs/L0-L3/L0-L3-coupling-design.md:169-360#八多-L4-亚体交互-独立个体交互架构2026-07-28-新",
+      "src_hash": "sha256:edda40c601ab9ff4b485f14d62249e27181a4a178fafeb5836f8afdf7e352371",
+      "current_raw": 0.0978,
+      "start": 169,
+      "end": 360,
+      "anchor": "八多-L4-亚体交互-独立个体交互架构2026-07-28-新"
+    }
+  ],
+  "Docs/02docs/cell-ECM-L4-data.md": [
+    {
+      "node": "Docs/02docs/cell-ECM-L4-data.md#前言",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-ECM-L4-data.md:1-7#前言",
+      "src_hash": "sha256:c77e296bed84aa56621f39833be6cf1f317ddaf2fd3da3bfb960c589a47ea4b7",
+      "current_raw": 0.06,
+      "start": 1,
+      "end": 7,
+      "anchor": "前言"
+    },
+    {
+      "node": "Docs/02docs/cell-ECM-L4-data.md#0.-概念基线本文件统一镜头",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-ECM-L4-data.md:8-16#0.-概念基线本文件统一镜头",
+      "src_hash": "sha256:705e70a4cab1d7cbc06a7a04aa1673491f95bb18c840ad75a26b4eddfa9f76ee",
+      "current_raw": 0.06,
+      "start": 8,
+      "end": 16,
+      "anchor": "0.-概念基线本文件统一镜头"
+    },
+    {
+      "node": "Docs/02docs/cell-ECM-L4-data.md#1.-取值纪律",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-ECM-L4-data.md:17-27#1.-取值纪律",
+      "src_hash": "sha256:de921756b0c2ebccee9eabadb05c56dc51bb016a59316490be5187be795c3b69",
+      "current_raw": 0.06,
+      "start": 17,
+      "end": 27,
+      "anchor": "1.-取值纪律"
+    },
+    {
+      "node": "Docs/02docs/cell-ECM-L4-data.md#2.-L0ECM-原子态L0表权威",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-ECM-L4-data.md:28-70#2.-L0ECM-原子态L0表权威",
+      "src_hash": "sha256:4ad2e8a79fcbed767058823a83a17e285348814f1eddac293099f8caa0e57893",
+      "current_raw": 0.06,
+      "start": 28,
+      "end": 70,
+      "anchor": "2.-L0ECM-原子态L0表权威"
+    },
+    {
+      "node": "Docs/02docs/cell-ECM-L4-data.md#3.-L1ECM-分子单位L1表口径估算",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-ECM-L4-data.md:71-127#3.-L1ECM-分子单位L1表口径估算",
+      "src_hash": "sha256:6971793a7822333e92cda09f50e4b95d4e1bbecc2188722daf33ce07c602aefb",
+      "current_raw": 0.06,
+      "start": 71,
+      "end": 127,
+      "anchor": "3.-L1ECM-分子单位L1表口径估算"
+    },
+    {
+      "node": "Docs/02docs/cell-ECM-L4-data.md#4.-L2ECM-团簇原纤维L2表口径估算",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-ECM-L4-data.md:128-183#4.-L2ECM-团簇原纤维L2表口径估算",
+      "src_hash": "sha256:a71578cbb84384362cef2d63635936aa1da8bf1029cef3d72318c8211e92b2f3",
+      "current_raw": 0.06,
+      "start": 128,
+      "end": 183,
+      "anchor": "4.-L2ECM-团簇原纤维L2表口径估算"
+    },
+    {
+      "node": "Docs/02docs/cell-ECM-L4-data.md#5.-L3单位结构端口-vs-registry-行",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-ECM-L4-data.md:184-196#5.-L3单位结构端口-vs-registry-行",
+      "src_hash": "sha256:b3ad31abb44c40f2f7f6c20ab26270a58d21c5f30e0407b820de2c46fa92ca7b",
+      "current_raw": 0.06,
+      "start": 184,
+      "end": 196,
+      "anchor": "5.-L3单位结构端口-vs-registry-行"
+    },
+    {
+      "node": "Docs/02docs/cell-ECM-L4-data.md#6.-逐-L3-单位结构折叠完整数值含下级非钝化进-D_im",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-ECM-L4-data.md:197-266#6.-逐-L3-单位结构折叠完整数值含下级非钝化进-D_im",
+      "src_hash": "sha256:f61bb180d54c3cb8440d401012f048e47d1cdf5fe7b72f3b2b5242ef2bc42fe2",
+      "current_raw": 0.06,
+      "start": 197,
+      "end": 266,
+      "anchor": "6.-逐-L3-单位结构折叠完整数值含下级非钝化进-D_im"
+    },
+    {
+      "node": "Docs/02docs/cell-ECM-L4-data.md#7.-方程四N-单位结构-亚L4-端口-F_ECM",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-ECM-L4-data.md:267-300#7.-方程四N-单位结构-亚L4-端口-F_ECM",
+      "src_hash": "sha256:f1bfad16e0fd86e07d16fe2318f7829d712fbb6542a9178db8edace297aed888",
+      "current_raw": 0.06,
+      "start": 267,
+      "end": 300,
+      "anchor": "7.-方程四N-单位结构-亚L4-端口-F_ECM"
+    },
+    {
+      "node": "Docs/02docs/cell-ECM-L4-data.md#8.-内部-L0L3-分界5-级级联钝化-vs-暴露",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-ECM-L4-data.md:301-313#8.-内部-L0L3-分界5-级级联钝化-vs-暴露",
+      "src_hash": "sha256:85254e1960c2a91a285904ee585179cedd5030bb8f41bc7e0d6f5f99ddfca604",
+      "current_raw": 0.06,
+      "start": 301,
+      "end": 313,
+      "anchor": "8.-内部-L0L3-分界5-级级联钝化-vs-暴露"
+    },
+    {
+      "node": "Docs/02docs/cell-ECM-L4-data.md#10.-界与穿透与膜文档-1011-平行",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-ECM-L4-data.md:314-372#10.-界与穿透与膜文档-1011-平行",
+      "src_hash": "sha256:653205ce3e90d832340321a7a67b2ee76f1c7a518657bfde940ca5611cbe5644",
+      "current_raw": 0.06,
+      "start": 314,
+      "end": 372,
+      "anchor": "10.-界与穿透与膜文档-1011-平行"
+    },
+    {
+      "node": "Docs/02docs/cell-ECM-L4-data.md#11.-ECM-作为-L4-亚体集群的用户说明",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-ECM-L4-data.md:373-386#11.-ECM-作为-L4-亚体集群的用户说明",
+      "src_hash": "sha256:be57b4543d4a522811d269c43d2174e4174d35927c113f4b5f206b3f55a44069",
+      "current_raw": 0.06,
+      "start": 373,
+      "end": 386,
+      "anchor": "11.-ECM-作为-L4-亚体集群的用户说明"
+    },
+    {
+      "node": "Docs/02docs/cell-ECM-L4-data.md#12.-内界ECM-内部缝合线与膜文档-14-平行",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-ECM-L4-data.md:387-417#12.-内界ECM-内部缝合线与膜文档-14-平行",
+      "src_hash": "sha256:f493d7aaacaf4ab0213530ed6e863cdf79e10585304c2c7741b78869840acab6",
+      "current_raw": 0.06,
+      "start": 387,
+      "end": 417,
+      "anchor": "12.-内界ECM-内部缝合线与膜文档-14-平行"
+    },
+    {
+      "node": "Docs/02docs/cell-ECM-L4-data.md#13.-GAP-更新修订后",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-ECM-L4-data.md:418-426#13.-GAP-更新修订后",
+      "src_hash": "sha256:b71443c07a3f8bf1af6c656b6b08c43a7a6ea2e8e8cb1691143f7f3da8ecc8ce",
+      "current_raw": 0.06,
+      "start": 418,
+      "end": 426,
+      "anchor": "13.-GAP-更新修订后"
+    }
+  ],
+  "Docs/02docs/cell-intracellular-matrix-L4-data.md": [
+    {
+      "node": "Docs/02docs/cell-intracellular-matrix-L4-data.md#前言",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-intracellular-matrix-L4-data.md:1-7#前言",
+      "src_hash": "sha256:3553d2847c18947786284e129b37acba4b1803737e4a7f4729fe3c1321daae1a",
+      "current_raw": 0.0586,
+      "start": 1,
+      "end": 7,
+      "anchor": "前言"
+    },
+    {
+      "node": "Docs/02docs/cell-intracellular-matrix-L4-data.md#0.-概念基线本文件统一镜头",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-intracellular-matrix-L4-data.md:8-20#0.-概念基线本文件统一镜头",
+      "src_hash": "sha256:1142b57c301cc5a0d8736d7b1f8e49815e84b06261920e5b2e848401a84c1a29",
+      "current_raw": 0.0586,
+      "start": 8,
+      "end": 20,
+      "anchor": "0.-概念基线本文件统一镜头"
+    },
+    {
+      "node": "Docs/02docs/cell-intracellular-matrix-L4-data.md#1.-取值纪律",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-intracellular-matrix-L4-data.md:21-31#1.-取值纪律",
+      "src_hash": "sha256:b3ff57da520a8ca3a25e8e0dfbe235f02bd12ca92af919c800f8504e54dfa972",
+      "current_raw": 0.0586,
+      "start": 21,
+      "end": 31,
+      "anchor": "1.-取值纪律"
+    },
+    {
+      "node": "Docs/02docs/cell-intracellular-matrix-L4-data.md#2.-L0细胞内基质原子态L0表权威",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-intracellular-matrix-L4-data.md:32-70#2.-L0细胞内基质原子态L0表权威",
+      "src_hash": "sha256:14cc53f9e1d78a90c8779b810b1771866a9ba6916c9d0360b1ad5406f8dc4b20",
+      "current_raw": 0.0586,
+      "start": 32,
+      "end": 70,
+      "anchor": "2.-L0细胞内基质原子态L0表权威"
+    },
+    {
+      "node": "Docs/02docs/cell-intracellular-matrix-L4-data.md#3.-L1细胞内基质分子单位L1表口径估算",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-intracellular-matrix-L4-data.md:71-118#3.-L1细胞内基质分子单位L1表口径估算",
+      "src_hash": "sha256:65cb936d9eddeccce7fd531cb8f482de2a458b22cd7eaa8b8ea6c230f38ce5ac",
+      "current_raw": 0.0586,
+      "start": 71,
+      "end": 118,
+      "anchor": "3.-L1细胞内基质分子单位L1表口径估算"
+    },
+    {
+      "node": "Docs/02docs/cell-intracellular-matrix-L4-data.md#4.-L2胞基质团簇纤维网络L2表口径估算",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-intracellular-matrix-L4-data.md:119-163#4.-L2胞基质团簇纤维网络L2表口径估算",
+      "src_hash": "sha256:6d40fcb8ae4fb9f8f5aa5b15ec49c7bc68bea888f3c6818126eb3dee2d035a73",
+      "current_raw": 0.0586,
+      "start": 119,
+      "end": 163,
+      "anchor": "4.-L2胞基质团簇纤维网络L2表口径估算"
+    },
+    {
+      "node": "Docs/02docs/cell-intracellular-matrix-L4-data.md#5.-L3单位结构端口-vs-registry-行",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-intracellular-matrix-L4-data.md:164-179#5.-L3单位结构端口-vs-registry-行",
+      "src_hash": "sha256:baafd78207c2e7fca26c84276908f3f1b58e0aa746c9a6119d3456cb3b9cd406",
+      "current_raw": 0.0586,
+      "start": 164,
+      "end": 179,
+      "anchor": "5.-L3单位结构端口-vs-registry-行"
+    },
+    {
+      "node": "Docs/02docs/cell-intracellular-matrix-L4-data.md#6.-逐-L3-单位结构折叠完整数值含下级非钝化进-D_im",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-intracellular-matrix-L4-data.md:180-233#6.-逐-L3-单位结构折叠完整数值含下级非钝化进-D_im",
+      "src_hash": "sha256:82da25e0478c9b971105d4851545171b451afea70e9b81ae8367d2713fc434a2",
+      "current_raw": 0.0586,
+      "start": 180,
+      "end": 233,
+      "anchor": "6.-逐-L3-单位结构折叠完整数值含下级非钝化进-D_im"
+    },
+    {
+      "node": "Docs/02docs/cell-intracellular-matrix-L4-data.md#7.-方程四N-单位结构-亚L4-端口-F_胞基质",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-intracellular-matrix-L4-data.md:234-266#7.-方程四N-单位结构-亚L4-端口-F_胞基质",
+      "src_hash": "sha256:f5553608180ffe36b244bbfce8d49836f879c32826dcc938abdfc373235b4ed1",
+      "current_raw": 0.0586,
+      "start": 234,
+      "end": 266,
+      "anchor": "7.-方程四N-单位结构-亚L4-端口-F_胞基质"
+    },
+    {
+      "node": "Docs/02docs/cell-intracellular-matrix-L4-data.md#8.-内部-L0L3-分界5-级级联钝化-vs-暴露",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-intracellular-matrix-L4-data.md:267-280#8.-内部-L0L3-分界5-级级联钝化-vs-暴露",
+      "src_hash": "sha256:8b9af65b65e212cebd240ab5744765992b13d95ca26b710c0987f12614b8d40d",
+      "current_raw": 0.0586,
+      "start": 267,
+      "end": 280,
+      "anchor": "8.-内部-L0L3-分界5-级级联钝化-vs-暴露"
+    },
+    {
+      "node": "Docs/02docs/cell-intracellular-matrix-L4-data.md#9.-GAP-待拍板",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-intracellular-matrix-L4-data.md:281-295#9.-GAP-待拍板",
+      "src_hash": "sha256:d1b8b6f24313551051ba0dadef625d9f17fad306cddb017efde31409bc97961e",
+      "current_raw": 0.0586,
+      "start": 281,
+      "end": 295,
+      "anchor": "9.-GAP-待拍板"
+    },
+    {
+      "node": "Docs/02docs/cell-intracellular-matrix-L4-data.md#10.-界与穿透与膜文档-1011-平行",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-intracellular-matrix-L4-data.md:296-361#10.-界与穿透与膜文档-1011-平行",
+      "src_hash": "sha256:90cf96f07a3a8924e1a2248fded2b73ad4a7af077d476434e034f24b167acc41",
+      "current_raw": 0.0586,
+      "start": 296,
+      "end": 361,
+      "anchor": "10.-界与穿透与膜文档-1011-平行"
+    },
+    {
+      "node": "Docs/02docs/cell-intracellular-matrix-L4-data.md#11.-细胞内基质作为-L4-亚体集群的用户说明",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-intracellular-matrix-L4-data.md:362-385#11.-细胞内基质作为-L4-亚体集群的用户说明",
+      "src_hash": "sha256:c56e3360f2fb74b06e4b4f42288d241c1a7c02e891ca55ec82bdf53839c6fa07",
+      "current_raw": 0.0586,
+      "start": 362,
+      "end": 385,
+      "anchor": "11.-细胞内基质作为-L4-亚体集群的用户说明"
+    },
+    {
+      "node": "Docs/02docs/cell-intracellular-matrix-L4-data.md#12.-内界胞基质内部缝合线与膜文档-14-平行",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-intracellular-matrix-L4-data.md:386-416#12.-内界胞基质内部缝合线与膜文档-14-平行",
+      "src_hash": "sha256:21b8cfe118fbb168f294b050eb321cd7c6a88698094d88803132dbd313b82b21",
+      "current_raw": 0.0586,
+      "start": 386,
+      "end": 416,
+      "anchor": "12.-内界胞基质内部缝合线与膜文档-14-平行"
+    }
+  ],
+  "Docs/02docs/cell-membrane-L4-data.md": [
+    {
+      "node": "Docs/02docs/cell-membrane-L4-data.md#前言",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-membrane-L4-data.md:1-7#前言",
+      "src_hash": "sha256:6a22ea8aedef7c03b9035acec6a8f962c16528df657f7f19fedb33407d31e49d",
+      "current_raw": 0.0575,
+      "start": 1,
+      "end": 7,
+      "anchor": "前言"
+    },
+    {
+      "node": "Docs/02docs/cell-membrane-L4-data.md#0.-概念基线钝化-界-非钝化本文件统一镜头",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-membrane-L4-data.md:8-15#0.-概念基线钝化-界-非钝化本文件统一镜头",
+      "src_hash": "sha256:5f3c20d2923bc7df4d5f83eafcc31d776402635e670cd30a2fa134e83ade10f0",
+      "current_raw": 0.0575,
+      "start": 8,
+      "end": 15,
+      "anchor": "0.-概念基线钝化-界-非钝化本文件统一镜头"
+    },
+    {
+      "node": "Docs/02docs/cell-membrane-L4-data.md#1.-取值纪律",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-membrane-L4-data.md:16-26#1.-取值纪律",
+      "src_hash": "sha256:171b4ec237f3d58f597cc90259fffc68c1bedf073271d6b8a70940bab02094ef",
+      "current_raw": 0.0575,
+      "start": 16,
+      "end": 26,
+      "anchor": "1.-取值纪律"
+    },
+    {
+      "node": "Docs/02docs/cell-membrane-L4-data.md#2.-L0膜内原子态L0表权威剥水口径",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-membrane-L4-data.md:27-41#2.-L0膜内原子态L0表权威剥水口径",
+      "src_hash": "sha256:6795e33cb58fbbf4db9166a15876ed9de87404e6a373d48857e2e1dc7b3bfcd1",
+      "current_raw": 0.0575,
+      "start": 27,
+      "end": 41,
+      "anchor": "2.-L0膜内原子态L0表权威剥水口径"
+    },
+    {
+      "node": "Docs/02docs/cell-membrane-L4-data.md#3.-L1膜内分子L1表权威",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-membrane-L4-data.md:42-49#3.-L1膜内分子L1表权威",
+      "src_hash": "sha256:866a1010d7817eca64c0d1fb974e7c5db0c43ddc8bc5e5f87cd49e187f2c28b3",
+      "current_raw": 0.0575,
+      "start": 42,
+      "end": 49,
+      "anchor": "3.-L1膜内分子L1表权威"
+    },
+    {
+      "node": "Docs/02docs/cell-membrane-L4-data.md#4.-L2膜内团簇缺表估算按界描述",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-membrane-L4-data.md:50-59#4.-L2膜内团簇缺表估算按界描述",
+      "src_hash": "sha256:6377b51da9599f8f9af929750a4b18d9dd9ef335535f17bdfe1350cfc924672e",
+      "current_raw": 0.0575,
+      "start": 50,
+      "end": 59,
+      "anchor": "4.-L2膜内团簇缺表估算按界描述"
+    },
+    {
+      "node": "Docs/02docs/cell-membrane-L4-data.md#5.-L3单位结构端口-vs-registry-行",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-membrane-L4-data.md:60-71#5.-L3单位结构端口-vs-registry-行",
+      "src_hash": "sha256:3c54c3ac9f0c4fa7876ac63fd8130b1bd3b3076a6d95d9032022bcefc94afbb5",
+      "current_raw": 0.0575,
+      "start": 60,
+      "end": 71,
+      "anchor": "5.-L3单位结构端口-vs-registry-行"
+    },
+    {
+      "node": "Docs/02docs/cell-membrane-L4-data.md#6.-逐-L3-单位结构折叠完整数值含下级非钝化进-D_im",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-membrane-L4-data.md:72-99#6.-逐-L3-单位结构折叠完整数值含下级非钝化进-D_im",
+      "src_hash": "sha256:715b1f115905e83a8bb7ab612aeb21b63a8cb822cdaf6f0c42c4c343d62c91e6",
+      "current_raw": 0.0575,
+      "start": 72,
+      "end": 99,
+      "anchor": "6.-逐-L3-单位结构折叠完整数值含下级非钝化进-D_im"
+    },
+    {
+      "node": "Docs/02docs/cell-membrane-L4-data.md#7.-方程四N-单位结构-亚L4-端口-F_膜体积占位-_k",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-membrane-L4-data.md:100-109#7.-方程四N-单位结构-亚L4-端口-F_膜体积占位-_k",
+      "src_hash": "sha256:f4165f88b6b28e8b2cdf805a750912ffa2f42ab56581ae93704bf7810c1f9ba9",
+      "current_raw": 0.0575,
+      "start": 100,
+      "end": 109,
+      "anchor": "7.-方程四N-单位结构-亚L4-端口-F_膜体积占位-_k"
+    },
+    {
+      "node": "Docs/02docs/cell-membrane-L4-data.md#8.-内部-L0L3-分界5-级级联钝化-vs-暴露界视角plan-8.49.0",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-membrane-L4-data.md:110-121#8.-内部-L0L3-分界5-级级联钝化-vs-暴露界视角plan-8.49.0",
+      "src_hash": "sha256:0fe379d077fc97766c03d06bdd51dc6d4e6be114769120a5758bee61cc0211fa",
+      "current_raw": 0.0575,
+      "start": 110,
+      "end": 121,
+      "anchor": "8.-内部-L0L3-分界5-级级联钝化-vs-暴露界视角plan-8.49.0"
+    },
+    {
+      "node": "Docs/02docs/cell-membrane-L4-data.md#9.-GAP-待拍板集中修订后状态",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-membrane-L4-data.md:122-132#9.-GAP-待拍板集中修订后状态",
+      "src_hash": "sha256:8452c7bcc13c8246e5dc0004bed06632e441a2785e7b188bc637afbd50107861",
+      "current_raw": 0.0575,
+      "start": 122,
+      "end": 132,
+      "anchor": "9.-GAP-待拍板集中修订后状态"
+    },
+    {
+      "node": "Docs/02docs/cell-membrane-L4-data.md#10.-L3-钝化整体表现界框架表达与数值来源",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-membrane-L4-data.md:133-190#10.-L3-钝化整体表现界框架表达与数值来源",
+      "src_hash": "sha256:cd7ebc120b70d2720fc052be3241b80ed8af843925c0fb5fc8ea97f348044602",
+      "current_raw": 0.0575,
+      "start": 133,
+      "end": 190,
+      "anchor": "10.-L3-钝化整体表现界框架表达与数值来源"
+    },
+    {
+      "node": "Docs/02docs/cell-membrane-L4-data.md#11.-细胞膜单位-L4-亚体的-L0L2-子界非钝化-DOF-产生归于整体",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-membrane-L4-data.md:191-254#11.-细胞膜单位-L4-亚体的-L0L2-子界非钝化-DOF-产生归于整体",
+      "src_hash": "sha256:749f98600bf95cc50ef5bd09c534f88703d77cb24f91292727c81b9c41d9b5fa",
+      "current_raw": 0.0575,
+      "start": 191,
+      "end": 254,
+      "anchor": "11.-细胞膜单位-L4-亚体的-L0L2-子界非钝化-DOF-产生归于整体"
+    },
+    {
+      "node": "Docs/02docs/cell-membrane-L4-data.md#12.-内部机制钝化如何执行-非钝化口为何稳定-耦合解析法2026-07-27",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-membrane-L4-data.md:255-286#12.-内部机制钝化如何执行-非钝化口为何稳定-耦合解析法2026-07-27",
+      "src_hash": "sha256:14f17f1fe22c138c2d207d3c2135fae64fb6c521b5dab8cf51dad811a85bc68f",
+      "current_raw": 0.0575,
+      "start": 255,
+      "end": 286,
+      "anchor": "12.-内部机制钝化如何执行-非钝化口为何稳定-耦合解析法2026-07-27"
+    },
+    {
+      "node": "Docs/02docs/cell-membrane-L4-data.md#13.-稳态标记让自运行解锚住现实2026-07-27",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-membrane-L4-data.md:287-325#13.-稳态标记让自运行解锚住现实2026-07-27",
+      "src_hash": "sha256:41c5500aac130a192057c94f7359c1e48db16d4cf31cc7a6133d879d7d08b4b8",
+      "current_raw": 0.0575,
+      "start": 287,
+      "end": 325,
+      "anchor": "13.-稳态标记让自运行解锚住现实2026-07-27"
+    },
+    {
+      "node": "Docs/02docs/cell-membrane-L4-data.md#14.-内界的函数解表示与-1011外界平行2026-07-27-修订",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-membrane-L4-data.md:326-370#14.-内界的函数解表示与-1011外界平行2026-07-27-修订",
+      "src_hash": "sha256:2b0b29498f5a508774d6e5eefd00effc7f6090cded09a07655e45e0e721d735b",
+      "current_raw": 0.0575,
+      "start": 326,
+      "end": 370,
+      "anchor": "14.-内界的函数解表示与-1011外界平行2026-07-27-修订"
+    }
+  ],
+  "Docs/02docs/cell-mitochondria-L4-data.md": [
+    {
+      "node": "Docs/02docs/cell-mitochondria-L4-data.md#前言",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-mitochondria-L4-data.md:1-8#前言",
+      "src_hash": "sha256:c42d23b83c682dae8689b31ac79898043b573daa3510c0fb2c55b967f42ee83c",
+      "current_raw": 0.06,
+      "start": 1,
+      "end": 8,
+      "anchor": "前言"
+    },
+    {
+      "node": "Docs/02docs/cell-mitochondria-L4-data.md#0.-元数据",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-mitochondria-L4-data.md:9-26#0.-元数据",
+      "src_hash": "sha256:aa72e939f55ec06a13d0c8eab9a9091624182bc6d4c725b1f1e3793aa712fcc9",
+      "current_raw": 0.06,
+      "start": 9,
+      "end": 26,
+      "anchor": "0.-元数据"
+    },
+    {
+      "node": "Docs/02docs/cell-mitochondria-L4-data.md#1.-L0-原子态线粒体特有行-复用",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-mitochondria-L4-data.md:27-47#1.-L0-原子态线粒体特有行-复用",
+      "src_hash": "sha256:e428b900ffb4aaa5d7e29049447286e79b725c5adddc874ae92764f9df08b045",
+      "current_raw": 0.06,
+      "start": 27,
+      "end": 47,
+      "anchor": "1.-L0-原子态线粒体特有行-复用"
+    },
+    {
+      "node": "Docs/02docs/cell-mitochondria-L4-data.md#2.-L1-分子态线粒体特有行-复用",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-mitochondria-L4-data.md:48-73#2.-L1-分子态线粒体特有行-复用",
+      "src_hash": "sha256:7a5218a1037a29fb6cc5d36bb5a34abcfa626b0d4dde3b058fbde637e2da60ef",
+      "current_raw": 0.06,
+      "start": 48,
+      "end": 73,
+      "anchor": "2.-L1-分子态线粒体特有行-复用"
+    },
+    {
+      "node": "Docs/02docs/cell-mitochondria-L4-data.md#3.-L2-团簇态线粒体特有行-复用",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-mitochondria-L4-data.md:74-91#3.-L2-团簇态线粒体特有行-复用",
+      "src_hash": "sha256:1d336496614fe00f5286ef8ab47869782f1087abbf67203296ff234a3a40ea7e",
+      "current_raw": 0.06,
+      "start": 74,
+      "end": 91,
+      "anchor": "3.-L2-团簇态线粒体特有行-复用"
+    },
+    {
+      "node": "Docs/02docs/cell-mitochondria-L4-data.md#4.-按亚单位分解",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-mitochondria-L4-data.md:92-114#4.-按亚单位分解",
+      "src_hash": "sha256:d3ecd099007029d3c526e4596676f5bb2c833c136b0824786d1367f1efecfa80",
+      "current_raw": 0.06,
+      "start": 92,
+      "end": 114,
+      "anchor": "4.-按亚单位分解"
+    },
+    {
+      "node": "Docs/02docs/cell-mitochondria-L4-data.md#5.-方程二三-F_unit3-级版",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-mitochondria-L4-data.md:115-142#5.-方程二三-F_unit3-级版",
+      "src_hash": "sha256:ba406ec73a6609dc73dbe611979d203a0464ba491bd271e549f174495723c20b",
+      "current_raw": 0.06,
+      "start": 115,
+      "end": 142,
+      "anchor": "5.-方程二三-F_unit3-级版"
+    },
+    {
+      "node": "Docs/02docs/cell-mitochondria-L4-data.md#6.-方程四-F_线粒体亚-L4-端口",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-mitochondria-L4-data.md:143-167#6.-方程四-F_线粒体亚-L4-端口",
+      "src_hash": "sha256:c39c2c8eefb6b966aa878d092b29f8e625b41fc5f23e7cfdace3c82fc159437f",
+      "current_raw": 0.06,
+      "start": 143,
+      "end": 167,
+      "anchor": "6.-方程四-F_线粒体亚-L4-端口"
+    },
+    {
+      "node": "Docs/02docs/cell-mitochondria-L4-data.md#7.-界功能剖面B1B6",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-mitochondria-L4-data.md:168-200#7.-界功能剖面B1B6",
+      "src_hash": "sha256:56daba2a21b04eaef54a1a418e9850ff01879085227d7b126f2e8971e660bf5c",
+      "current_raw": 0.06,
+      "start": 168,
+      "end": 200,
+      "anchor": "7.-界功能剖面B1B6"
+    },
+    {
+      "node": "Docs/02docs/cell-mitochondria-L4-data.md#8.-端口概览-B-轴元组身份",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-mitochondria-L4-data.md:201-219#8.-端口概览-B-轴元组身份",
+      "src_hash": "sha256:b7c1bdb9b6b4cf1932b0a49a126ba86d9c54d76b6b60cc2a608e461f2aafcd7f",
+      "current_raw": 0.06,
+      "start": 201,
+      "end": 219,
+      "anchor": "8.-端口概览-B-轴元组身份"
+    },
+    {
+      "node": "Docs/02docs/cell-mitochondria-L4-data.md#9.-自洽性检查",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-mitochondria-L4-data.md:220-230#9.-自洽性检查",
+      "src_hash": "sha256:722a933122b6ebadc1e7cd476c928f37ba3fec39d189e3c4399db4e71804d75e",
+      "current_raw": 0.06,
+      "start": 220,
+      "end": 230,
+      "anchor": "9.-自洽性检查"
+    },
+    {
+      "node": "Docs/02docs/cell-mitochondria-L4-data.md#10.-与其他亚体耦合registry-行草案",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-mitochondria-L4-data.md:231-243#10.-与其他亚体耦合registry-行草案",
+      "src_hash": "sha256:082407aff22d239ac98ad391843162f9fc333513a91db56876c54c8d1f8710d2",
+      "current_raw": 0.06,
+      "start": 231,
+      "end": 243,
+      "anchor": "10.-与其他亚体耦合registry-行草案"
+    },
+    {
+      "node": "Docs/02docs/cell-mitochondria-L4-data.md#11.-文献参考与-B-辅校准",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-mitochondria-L4-data.md:244-253#11.-文献参考与-B-辅校准",
+      "src_hash": "sha256:596209d37b69749d8d7ba7b948a7fd16ae05e038d335a4672345b082fe79cc36",
+      "current_raw": 0.06,
+      "start": 244,
+      "end": 253,
+      "anchor": "11.-文献参考与-B-辅校准"
+    },
+    {
+      "node": "Docs/02docs/cell-mitochondria-L4-data.md#12.-附录参数汇总",
+      "ref": "proj://codebuddyCELL/Docs/02docs/cell-mitochondria-L4-data.md:254-269#12.-附录参数汇总",
+      "src_hash": "sha256:0e1a4cf3479290bcc1d911f4d454cccc9f8bbd42c2743b78a43d57e76f6588bc",
+      "current_raw": 0.06,
+      "start": 254,
+      "end": 269,
+      "anchor": "12.-附录参数汇总"
+    }
+  ],
+  "Docs/03docs/cell-cisplatin-simulation-scenario.md": [
+    {
+      "node": "Docs/03docs/cell-cisplatin-simulation-scenario.md#前言",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-cisplatin-simulation-scenario.md:1-10#前言",
+      "src_hash": "sha256:e4f4bebddc26b10a41bb1750da4df795c614bac7dbf9cc4d0153014d7b64812b",
+      "current_raw": 0.0662,
+      "start": 1,
+      "end": 10,
+      "anchor": "前言"
+    },
+    {
+      "node": "Docs/03docs/cell-cisplatin-simulation-scenario.md#0.-输入不给框架任何生物学先验",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-cisplatin-simulation-scenario.md:11-58#0.-输入不给框架任何生物学先验",
+      "src_hash": "sha256:a7f32a4832fc161f048bc63533c7854d9fa3d4ad1a2fe8be14e5820bbaf348ad",
+      "current_raw": 0.0662,
+      "start": 11,
+      "end": 58,
+      "anchor": "0.-输入不给框架任何生物学先验"
+    },
+    {
+      "node": "Docs/03docs/cell-cisplatin-simulation-scenario.md#一第一步膜actor-触碰的第一个端口系综",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-cisplatin-simulation-scenario.md:59-106#一第一步膜actor-触碰的第一个端口系综",
+      "src_hash": "sha256:e9b40e7f943e8f919463124de769b3e3b2f0216a0e65e0a26b4201ab4a6b7b72",
+      "current_raw": 0.0662,
+      "start": 59,
+      "end": 106,
+      "anchor": "一第一步膜actor-触碰的第一个端口系综"
+    },
+    {
+      "node": "Docs/03docs/cell-cisplatin-simulation-scenario.md#二第二步胞基质actor-的身份转换与道路分岔",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-cisplatin-simulation-scenario.md:107-156#二第二步胞基质actor-的身份转换与道路分岔",
+      "src_hash": "sha256:0897be41630639b5172607029ca0090cabd2aa34d9cd4391ed1db5a218d7f77e",
+      "current_raw": 0.0662,
+      "start": 107,
+      "end": 156,
+      "anchor": "二第二步胞基质actor-的身份转换与道路分岔"
+    },
+    {
+      "node": "Docs/03docs/cell-cisplatin-simulation-scenario.md#三第三步选择性靶向哪个亚体最先被打中",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-cisplatin-simulation-scenario.md:157-194#三第三步选择性靶向哪个亚体最先被打中",
+      "src_hash": "sha256:085762357cb8fe8605ca1a5f344ad955e0b597a699659d4ce2005fa6a8d850d3",
+      "current_raw": 0.0662,
+      "start": 157,
+      "end": 194,
+      "anchor": "三第三步选择性靶向哪个亚体最先被打中"
+    },
+    {
+      "node": "Docs/03docs/cell-cisplatin-simulation-scenario.md#四第四步级联传播损伤如何传染给其他亚体",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-cisplatin-simulation-scenario.md:195-234#四第四步级联传播损伤如何传染给其他亚体",
+      "src_hash": "sha256:42ac7808b447fd9446cb43477b8281df8219520bd2685c72266da02a91dc46b0",
+      "current_raw": 0.0662,
+      "start": 195,
+      "end": 234,
+      "anchor": "四第四步级联传播损伤如何传染给其他亚体"
+    },
+    {
+      "node": "Docs/03docs/cell-cisplatin-simulation-scenario.md#五第五步env-侧响应细胞外部环境如何被改变",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-cisplatin-simulation-scenario.md:235-289#五第五步env-侧响应细胞外部环境如何被改变",
+      "src_hash": "sha256:86b056de7fb7bd884d64304ddeb3491063f1e953e33bc55b1410b062c4adaa12",
+      "current_raw": 0.0662,
+      "start": 235,
+      "end": 289,
+      "anchor": "五第五步env-侧响应细胞外部环境如何被改变"
+    },
+    {
+      "node": "Docs/03docs/cell-cisplatin-simulation-scenario.md#六第六步系统终态C_sys-的不可逆跃迁",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-cisplatin-simulation-scenario.md:290-333#六第六步系统终态C_sys-的不可逆跃迁",
+      "src_hash": "sha256:e0eae11ebe582e8396fa31e919d3877a94c06a6501834638cc24c92482ff717c",
+      "current_raw": 0.0662,
+      "start": 290,
+      "end": 333,
+      "anchor": "六第六步系统终态C_sys-的不可逆跃迁"
+    },
+    {
+      "node": "Docs/03docs/cell-cisplatin-simulation-scenario.md#七与已知生物学的对照框架自己发现了多少",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-cisplatin-simulation-scenario.md:334-352#七与已知生物学的对照框架自己发现了多少",
+      "src_hash": "sha256:cbff9e5cf40adcb0c7fb55519f70d90e814666fecc10bbb6f1e9a5fb048d5718",
+      "current_raw": 0.0662,
+      "start": 334,
+      "end": 352,
+      "anchor": "七与已知生物学的对照框架自己发现了多少"
+    },
+    {
+      "node": "Docs/03docs/cell-cisplatin-simulation-scenario.md#八ETAM-揭示了什么传统细胞生物学路径无法触及的因果",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-cisplatin-simulation-scenario.md:353-411#八ETAM-揭示了什么传统细胞生物学路径无法触及的因果",
+      "src_hash": "sha256:7f0e90e58b869e53b7964d4724b50496f496fb6d524829693181766a2e8d6d75",
+      "current_raw": 0.0662,
+      "start": 353,
+      "end": 411,
+      "anchor": "八ETAM-揭示了什么传统细胞生物学路径无法触及的因果"
+    },
+    {
+      "node": "Docs/03docs/cell-cisplatin-simulation-scenario.md#九框架预测待独立验证",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-cisplatin-simulation-scenario.md:412-427#九框架预测待独立验证",
+      "src_hash": "sha256:5a2cacb478d312d251be7004673d556d426ca6e07e7819efb95779228836a530",
+      "current_raw": 0.0662,
+      "start": 412,
+      "end": 427,
+      "anchor": "九框架预测待独立验证"
+    },
+    {
+      "node": "Docs/03docs/cell-cisplatin-simulation-scenario.md#九改造推论从端口动力学出发的顺铂靶向前体设计",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-cisplatin-simulation-scenario.md:428-610#九改造推论从端口动力学出发的顺铂靶向前体设计",
+      "src_hash": "sha256:46d01000554efb370e3b7527110f102965e7bfe95e30ea9309f0725d1615d241",
+      "current_raw": 0.0662,
+      "start": 428,
+      "end": 610,
+      "anchor": "九改造推论从端口动力学出发的顺铂靶向前体设计"
+    },
+    {
+      "node": "Docs/03docs/cell-cisplatin-simulation-scenario.md#十附录全参数路径",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-cisplatin-simulation-scenario.md:611-655#十附录全参数路径",
+      "src_hash": "sha256:a86649cfd274690805242cae06f9ebb4dd0c8b88dd8479a4e05fb10603dc8728",
+      "current_raw": 0.0662,
+      "start": 611,
+      "end": 655,
+      "anchor": "十附录全参数路径"
+    }
+  ],
+  "Docs/03docs/cell-epinephrine-simulation-scenario.md": [
+    {
+      "node": "Docs/03docs/cell-epinephrine-simulation-scenario.md#前言",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-epinephrine-simulation-scenario.md:1-12#前言",
+      "src_hash": "sha256:c736914316ed2e75c9d035b3f6eed602ee3b93453f4479295c3972bc1f7efb31",
+      "current_raw": 0.0444,
+      "start": 1,
+      "end": 12,
+      "anchor": "前言"
+    },
+    {
+      "node": "Docs/03docs/cell-epinephrine-simulation-scenario.md#0.-场景定义",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-epinephrine-simulation-scenario.md:13-25#0.-场景定义",
+      "src_hash": "sha256:2298da2e534df7098ba5609d6153662a1a5bb7ff430cd552148c6d1a9df1a48e",
+      "current_raw": 0.0444,
+      "start": 13,
+      "end": 25,
+      "anchor": "0.-场景定义"
+    },
+    {
+      "node": "Docs/03docs/cell-epinephrine-simulation-scenario.md#一模拟系综初始条件",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-epinephrine-simulation-scenario.md:26-73#一模拟系综初始条件",
+      "src_hash": "sha256:f4ec2c7999a021d5d039d06285eac6a5b9322ea86d9bf97833f1326c18467cc6",
+      "current_raw": 0.0444,
+      "start": 26,
+      "end": 73,
+      "anchor": "一模拟系综初始条件"
+    },
+    {
+      "node": "Docs/03docs/cell-epinephrine-simulation-scenario.md#前言-2",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-epinephrine-simulation-scenario.md:74-75#前言-2",
+      "src_hash": "sha256:30ef418b11e2de7a01f2b17302317ab9d02649ad85087c86d449386c64820f78",
+      "current_raw": 0.0444,
+      "start": 74,
+      "end": 75,
+      "anchor": "前言-2"
+    },
+    {
+      "node": "Docs/03docs/cell-epinephrine-simulation-scenario.md#Phase-0t-0静息稳态标定",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-epinephrine-simulation-scenario.md:76-89#Phase-0t-0静息稳态标定",
+      "src_hash": "sha256:417d86c8f2db1e6e215d3030e6943ab79a8a584e75c6fd324395efc67fe03e10",
+      "current_raw": 0.0444,
+      "start": 76,
+      "end": 89,
+      "anchor": "Phase-0t-0静息稳态标定"
+    },
+    {
+      "node": "Docs/03docs/cell-epinephrine-simulation-scenario.md#Phase-1t-050-步050-s肾上腺素抵达膜并穿透-AR",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-epinephrine-simulation-scenario.md:90-142#Phase-1t-050-步050-s肾上腺素抵达膜并穿透-AR",
+      "src_hash": "sha256:a5263710fd3eba840f9152b60ce6dc9d10ff6ca0309abca427da4227bd7daaba",
+      "current_raw": 0.0444,
+      "start": 90,
+      "end": 142,
+      "anchor": "Phase-1t-050-步050-s肾上腺素抵达膜并穿透-AR"
+    },
+    {
+      "node": "Docs/03docs/cell-epinephrine-simulation-scenario.md#Phase-2t-50200-步13-min胞质信号级联放大",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-epinephrine-simulation-scenario.md:143-174#Phase-2t-50200-步13-min胞质信号级联放大",
+      "src_hash": "sha256:755e073854a3d6990a6e13ee507419bf12a5660ba3f79219101e7cd04f421452",
+      "current_raw": 0.0444,
+      "start": 143,
+      "end": 174,
+      "anchor": "Phase-2t-50200-步13-min胞质信号级联放大"
+    },
+    {
+      "node": "Docs/03docs/cell-epinephrine-simulation-scenario.md#Phase-3at-50300-步15-min糖原分解胞基质内代谢重组",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-epinephrine-simulation-scenario.md:175-194#Phase-3at-50300-步15-min糖原分解胞基质内代谢重组",
+      "src_hash": "sha256:31065131b1c9c7dfe22cda890c4c823ee9efccdbf334853c043978cdd1cbb4d1",
+      "current_raw": 0.0444,
+      "start": 175,
+      "end": 194,
+      "anchor": "Phase-3at-50300-步15-min糖原分解胞基质内代谢重组"
+    },
+    {
+      "node": "Docs/03docs/cell-epinephrine-simulation-scenario.md#Phase-3bt-2001500-步325-min脂解脂滴核心重构",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-epinephrine-simulation-scenario.md:195-263#Phase-3bt-2001500-步325-min脂解脂滴核心重构",
+      "src_hash": "sha256:54270d19b19d3c74918c696a790e90074ce3e323c980cbdaf2a5fa2d77d6d2bf",
+      "current_raw": 0.0444,
+      "start": 195,
+      "end": 263,
+      "anchor": "Phase-3bt-2001500-步325-min脂解脂滴核心重构"
+    },
+    {
+      "node": "Docs/03docs/cell-epinephrine-simulation-scenario.md#Phase-3ct-3001500-步525-min线粒体FA-氧化与融合响应",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-epinephrine-simulation-scenario.md:264-311#Phase-3ct-3001500-步525-min线粒体FA-氧化与融合响应",
+      "src_hash": "sha256:aca48f6f4f6f60a59d2de21ad45aa45e94dddf06b7eea030a23055cf6d4133c3",
+      "current_raw": 0.0444,
+      "start": 264,
+      "end": 311,
+      "anchor": "Phase-3ct-3001500-步525-min线粒体FA-氧化与融合响应"
+    },
+    {
+      "node": "Docs/03docs/cell-epinephrine-simulation-scenario.md#Phase-3dt-100500-步28-minER-Ca-动员",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-epinephrine-simulation-scenario.md:312-334#Phase-3dt-100500-步28-minER-Ca-动员",
+      "src_hash": "sha256:af904996b83e30e498c1f353cabec82973ec597fba73d782a8948e0822683e5f",
+      "current_raw": 0.0444,
+      "start": 312,
+      "end": 334,
+      "anchor": "Phase-3dt-100500-步28-minER-Ca-动员"
+    },
+    {
+      "node": "Docs/03docs/cell-epinephrine-simulation-scenario.md#Phase-4t-15003000-步2550-min激活稳态建立",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-epinephrine-simulation-scenario.md:335-364#Phase-4t-15003000-步2550-min激活稳态建立",
+      "src_hash": "sha256:5db34fb26d5c576ecfd9bad26888edb8d75fbcf1a133dd5193b32ab05ad74c89",
+      "current_raw": 0.0444,
+      "start": 335,
+      "end": 364,
+      "anchor": "Phase-4t-15003000-步2550-min激活稳态建立"
+    },
+    {
+      "node": "Docs/03docs/cell-epinephrine-simulation-scenario.md#Phase-5t-20004000-步3060-min信号消退PDE-关闭级联",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-epinephrine-simulation-scenario.md:365-407#Phase-5t-20004000-步3060-min信号消退PDE-关闭级联",
+      "src_hash": "sha256:ff35b616bb1beb107b92ea1d50182c43bf4882fd555c7d410584a42b5fdedd34",
+      "current_raw": 0.0444,
+      "start": 365,
+      "end": 407,
+      "anchor": "Phase-5t-20004000-步3060-min信号消退PDE-关闭级联"
+    },
+    {
+      "node": "Docs/03docs/cell-epinephrine-simulation-scenario.md#三现代研究验证",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-epinephrine-simulation-scenario.md:408-463#三现代研究验证",
+      "src_hash": "sha256:9d5c17b7c76d748055f48926d325e6a28195b6fef5eb501af889ecc021b1c3b4",
+      "current_raw": 0.0444,
+      "start": 408,
+      "end": 463,
+      "anchor": "三现代研究验证"
+    },
+    {
+      "node": "Docs/03docs/cell-epinephrine-simulation-scenario.md#四ETAM-框架的新阐述",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-epinephrine-simulation-scenario.md:464-579#四ETAM-框架的新阐述",
+      "src_hash": "sha256:94379c444833b1f95e968c84a69d1a193ee166dac4cd7c30022f32417c9c4ff3",
+      "current_raw": 0.0444,
+      "start": 464,
+      "end": 579,
+      "anchor": "四ETAM-框架的新阐述"
+    },
+    {
+      "node": "Docs/03docs/cell-epinephrine-simulation-scenario.md#五ETAM-预测待实验验证",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-epinephrine-simulation-scenario.md:580-595#五ETAM-预测待实验验证",
+      "src_hash": "sha256:88014948230f2ebf4805b515fe3edb66300af9726fc61c4f10e7acd0ac0dc16d",
+      "current_raw": 0.0444,
+      "start": 580,
+      "end": 595,
+      "anchor": "五ETAM-预测待实验验证"
+    },
+    {
+      "node": "Docs/03docs/cell-epinephrine-simulation-scenario.md#六局限性与待完善",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-epinephrine-simulation-scenario.md:596-611#六局限性与待完善",
+      "src_hash": "sha256:a9190f4097435dfb5ccf38b2e361333ef55e2fc12c1ce1dbde36df7abd13278e",
+      "current_raw": 0.0444,
+      "start": 596,
+      "end": 611,
+      "anchor": "六局限性与待完善"
+    },
+    {
+      "node": "Docs/03docs/cell-epinephrine-simulation-scenario.md#七附录全参数汇总",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-epinephrine-simulation-scenario.md:612-655#七附录全参数汇总",
+      "src_hash": "sha256:f4d2f991b79a103ae69e69d24ee6e8c9153a505cb6ebcfa5b7673c6e8fffd6b4",
+      "current_raw": 0.0444,
+      "start": 612,
+      "end": 655,
+      "anchor": "七附录全参数汇总"
+    }
+  ],
+  "Docs/03docs/cell-L4-construction-plan.md": [
+    {
+      "node": "Docs/03docs/cell-L4-construction-plan.md#前言",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-L4-construction-plan.md:1-8#前言",
+      "src_hash": "sha256:441c8996e6b6cb54906c49396ebc4fdb072ca9bb530afaecd38fa3bbf0c1a500",
+      "current_raw": 0.0778,
+      "start": 1,
+      "end": 8,
+      "anchor": "前言"
+    },
+    {
+      "node": "Docs/03docs/cell-L4-construction-plan.md#0.-构建管线通用模板",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-L4-construction-plan.md:9-28#0.-构建管线通用模板",
+      "src_hash": "sha256:2ddd29409831c68ba4aa765df4e3b5d849050b1b3ef22a91f7dca357cd1dea22",
+      "current_raw": 0.0778,
+      "start": 9,
+      "end": 28,
+      "anchor": "0.-构建管线通用模板"
+    },
+    {
+      "node": "Docs/03docs/cell-L4-construction-plan.md#1.-关键构建策略包裹体模板",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-L4-construction-plan.md:29-52#1.-关键构建策略包裹体模板",
+      "src_hash": "sha256:58a2e9b770a557a435dacb184ff0f0f0eec086075e2f2f87009f67c4e8898dc2",
+      "current_raw": 0.0778,
+      "start": 29,
+      "end": 52,
+      "anchor": "1.-关键构建策略包裹体模板"
+    },
+    {
+      "node": "Docs/03docs/cell-L4-construction-plan.md#1.1-包裹体区分维度框架以界功能为中心",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-L4-construction-plan.md:53-157#1.1-包裹体区分维度框架以界功能为中心",
+      "src_hash": "sha256:0b2015768d6afa43987ab0ae5c599d900ca4bef9721bf838b506481da82eabfb",
+      "current_raw": 0.0778,
+      "start": 53,
+      "end": 157,
+      "anchor": "1.1-包裹体区分维度框架以界功能为中心"
+    },
+    {
+      "node": "Docs/03docs/cell-L4-construction-plan.md#2.-Phase-II线粒体包裹体系首例",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-L4-construction-plan.md:158-283#2.-Phase-II线粒体包裹体系首例",
+      "src_hash": "sha256:b24dcb700ddcbbd6bfd927ac0048d5fe72d78ca9fa3249720ae5028951ac4f12",
+      "current_raw": 0.0778,
+      "start": 158,
+      "end": 283,
+      "anchor": "2.-Phase-II线粒体包裹体系首例"
+    },
+    {
+      "node": "Docs/03docs/cell-L4-construction-plan.md#3.-Phase-III核-ER-高尔基-囊泡交通",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-L4-construction-plan.md:284-426#3.-Phase-III核-ER-高尔基-囊泡交通",
+      "src_hash": "sha256:9718eb8a7e61a29c0dea34ad34f3f06297a1f1f9e5674bdda04e20aae49d476a",
+      "current_raw": 0.0778,
+      "start": 284,
+      "end": 426,
+      "anchor": "3.-Phase-III核-ER-高尔基-囊泡交通"
+    },
+    {
+      "node": "Docs/03docs/cell-L4-construction-plan.md#4.-Phase-IV溶酶体-过氧化物酶体-env-侧组件",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-L4-construction-plan.md:427-508#4.-Phase-IV溶酶体-过氧化物酶体-env-侧组件",
+      "src_hash": "sha256:c363b48521acf9412ca06882e5dc4b1a24d7676d4b599a7a9e92d57952d97f5a",
+      "current_raw": 0.0778,
+      "start": 427,
+      "end": 508,
+      "anchor": "4.-Phase-IV溶酶体-过氧化物酶体-env-侧组件"
+    },
+    {
+      "node": "Docs/03docs/cell-L4-construction-plan.md#5.-时间线汇总",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-L4-construction-plan.md:509-553#5.-时间线汇总",
+      "src_hash": "sha256:562f0c25a6649f3babe1c7824019d2880160d9ca83543d1f22950b785e36fee1",
+      "current_raw": 0.0778,
+      "start": 509,
+      "end": 553,
+      "anchor": "5.-时间线汇总"
+    },
+    {
+      "node": "Docs/03docs/cell-L4-construction-plan.md#6.-路线图依赖图",
+      "ref": "proj://codebuddyCELL/Docs/03docs/cell-L4-construction-plan.md:554-580#6.-路线图依赖图",
+      "src_hash": "sha256:37f45b2a20938d15936167a9b8f7d30e57a95e8009b52e20cf40c16c417ac256",
+      "current_raw": 0.0778,
+      "start": 554,
+      "end": 580,
+      "anchor": "6.-路线图依赖图"
+    }
+  ],
+  "Docs/03docs/etam v2.2WL.md": [
+    {
+      "node": "Docs/03docs/etam v2.2WL.md#前言",
+      "ref": "proj://codebuddyCELL/Docs/03docs/etam v2.2WL.md:1-13#前言",
+      "src_hash": "sha256:62323aa1d182c9f258161e062bc9652c18980a355e79cc9d7f92cc4ef6bd5dcf",
+      "current_raw": 0.0714,
+      "start": 1,
+      "end": 13,
+      "anchor": "前言"
+    },
+    {
+      "node": "Docs/03docs/etam v2.2WL.md#摘要",
+      "ref": "proj://codebuddyCELL/Docs/03docs/etam v2.2WL.md:14-39#摘要",
+      "src_hash": "sha256:5124495582eaaaadb1a10511c898011b28925ba841b9d67ed6ecb3fa145db470",
+      "current_raw": 0.0714,
+      "start": 14,
+      "end": 39,
+      "anchor": "摘要"
+    },
+    {
+      "node": "Docs/03docs/etam v2.2WL.md#一模型概述",
+      "ref": "proj://codebuddyCELL/Docs/03docs/etam v2.2WL.md:40-43#一模型概述",
+      "src_hash": "sha256:aa629b267eab180b32dc890a9373d00b3bc18ad32d5527b9acbcb95b425f795f",
+      "current_raw": 0.0714,
+      "start": 40,
+      "end": 43,
+      "anchor": "一模型概述"
+    },
+    {
+      "node": "Docs/03docs/etam v2.2WL.md#二概念基座同一性不变量与薛定谔等式接口",
+      "ref": "proj://codebuddyCELL/Docs/03docs/etam v2.2WL.md:44-78#二概念基座同一性不变量与薛定谔等式接口",
+      "src_hash": "sha256:d81f5f333db983b2338fa868faf0b2fd8cecb7eab45ba4d734416c29716a159f",
+      "current_raw": 0.0714,
+      "start": 44,
+      "end": 78,
+      "anchor": "二概念基座同一性不变量与薛定谔等式接口"
+    },
+    {
+      "node": "Docs/03docs/etam v2.2WL.md#三基础变量与四尺度定位",
+      "ref": "proj://codebuddyCELL/Docs/03docs/etam v2.2WL.md:79-109#三基础变量与四尺度定位",
+      "src_hash": "sha256:37ad985f6e4315ef7a59a4297be611be5777f257f45dbd388fe50394026683e5",
+      "current_raw": 0.0714,
+      "start": 79,
+      "end": 109,
+      "anchor": "三基础变量与四尺度定位"
+    },
+    {
+      "node": "Docs/03docs/etam v2.2WL.md#四L0-原子级基准离散槽位编码NaClaq-参考实现",
+      "ref": "proj://codebuddyCELL/Docs/03docs/etam v2.2WL.md:110-186#四L0-原子级基准离散槽位编码NaClaq-参考实现",
+      "src_hash": "sha256:b8ef7402ed101866cb885aebdc149d475e942be557c14cbe02330e4eb61efbcb",
+      "current_raw": 0.0714,
+      "start": 110,
+      "end": 186,
+      "anchor": "四L0-原子级基准离散槽位编码NaClaq-参考实现"
+    },
+    {
+      "node": "Docs/03docs/etam v2.2WL.md#五L1-分子间级基准identity-特征函数参考分子水",
+      "ref": "proj://codebuddyCELL/Docs/03docs/etam v2.2WL.md:187-221#五L1-分子间级基准identity-特征函数参考分子水",
+      "src_hash": "sha256:f5bea5392a99aea32f0d51adb2668ebf1324d142be897a0b9842c54624a12fe5",
+      "current_raw": 0.0714,
+      "start": 187,
+      "end": 221,
+      "anchor": "五L1-分子间级基准identity-特征函数参考分子水"
+    },
+    {
+      "node": "Docs/03docs/etam v2.2WL.md#六L2-晶格级基准identity-特征函数参考原胞单水合离子节点2-桥",
+      "ref": "proj://codebuddyCELL/Docs/03docs/etam v2.2WL.md:222-258#六L2-晶格级基准identity-特征函数参考原胞单水合离子节点2-桥",
+      "src_hash": "sha256:6c915b0df14a61c7385e001d1eae99fd4f48a3589183254a902086d24f9b887e",
+      "current_raw": 0.0714,
+      "start": 222,
+      "end": 258,
+      "anchor": "六L2-晶格级基准identity-特征函数参考原胞单水合离子节点2-桥"
+    },
+    {
+      "node": "Docs/03docs/etam v2.2WL.md#七L3-宏观级基准最终可见现象层人类普遍单位",
+      "ref": "proj://codebuddyCELL/Docs/03docs/etam v2.2WL.md:259-293#七L3-宏观级基准最终可见现象层人类普遍单位",
+      "src_hash": "sha256:9247a03462693b796b65ec8f7c79c1b8e01a13490961dd0379f421e05386e41a",
+      "current_raw": 0.0714,
+      "start": 259,
+      "end": 293,
+      "anchor": "七L3-宏观级基准最终可见现象层人类普遍单位"
+    },
+    {
+      "node": "Docs/03docs/etam v2.2WL.md#八方程一ATE-每级端口-fn水平原样作桥接来源",
+      "ref": "proj://codebuddyCELL/Docs/03docs/etam v2.2WL.md:294-366#八方程一ATE-每级端口-fn水平原样作桥接来源",
+      "src_hash": "sha256:d06f4e5ce4ed95ff83b2b13a981871c702dfe650ae2dbb8b800c9b75e51fff53",
+      "current_raw": 0.0714,
+      "start": 294,
+      "end": 366,
+      "anchor": "八方程一ATE-每级端口-fn水平原样作桥接来源"
+    },
+    {
+      "node": "Docs/03docs/etam v2.2WL.md#九双域自洽与慢变量反馈循环",
+      "ref": "proj://codebuddyCELL/Docs/03docs/etam v2.2WL.md:367-397#九双域自洽与慢变量反馈循环",
+      "src_hash": "sha256:acaefe907e3a6c314e5c59dcd0c93d930c7e2ad3c116b0b00c9c4b29d02910d5",
+      "current_raw": 0.0714,
+      "start": 367,
+      "end": 397,
+      "anchor": "九双域自洽与慢变量反馈循环"
+    },
+    {
+      "node": "Docs/03docs/etam v2.2WL.md#十维度耦合独立方程方程二三L0L3-垂直耦合外置复数方程",
+      "ref": "proj://codebuddyCELL/Docs/03docs/etam v2.2WL.md:398-476#十维度耦合独立方程方程二三L0L3-垂直耦合外置复数方程",
+      "src_hash": "sha256:98ecc4d4f8525a7140b3bc16c330e16560ef634e972eb918ece76e84bf734800",
+      "current_raw": 0.0714,
+      "start": 398,
+      "end": 476,
+      "anchor": "十维度耦合独立方程方程二三L0L3-垂直耦合外置复数方程"
+    },
+    {
+      "node": "Docs/03docs/etam v2.2WL.md#十一跨维度生成与缺失值预测",
+      "ref": "proj://codebuddyCELL/Docs/03docs/etam v2.2WL.md:477-493#十一跨维度生成与缺失值预测",
+      "src_hash": "sha256:304dbcbd1b35e694bab9f7014d2156f2ba4f2c37ac9d6ffe9cb6c2394d4bbbaf",
+      "current_raw": 0.0714,
+      "start": 477,
+      "end": 493,
+      "anchor": "十一跨维度生成与缺失值预测"
+    },
+    {
+      "node": "Docs/03docs/etam v2.2WL.md#十二版本",
+      "ref": "proj://codebuddyCELL/Docs/03docs/etam v2.2WL.md:494-517#十二版本",
+      "src_hash": "sha256:3c373bdb24ba983ff731e38338ab10b954762481c16add86394445c87a26856e",
+      "current_raw": 0.0714,
+      "start": 494,
+      "end": 517,
+      "anchor": "十二版本"
+    }
+  ],
+  "Docs/cell_sim-二级程序构建设计.md": [
+    {
+      "node": "Docs/cell_sim-二级程序构建设计.md#前言",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-二级程序构建设计.md:1-37#前言",
+      "src_hash": "sha256:5886e8d763e88a7695422dd1728024b834c9b9dc305c54ca981178e5888c68f3",
+      "current_raw": 0.0679,
+      "start": 1,
+      "end": 37,
+      "anchor": "前言"
+    },
+    {
+      "node": "Docs/cell_sim-二级程序构建设计.md#1.-门禁规则M0",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-二级程序构建设计.md:38-58#1.-门禁规则M0",
+      "src_hash": "sha256:7f290603ac91c09826f33b696c64ed172bc3cfcff67299c31cd666b226ad172c",
+      "current_raw": 0.0679,
+      "start": 38,
+      "end": 58,
+      "anchor": "1.-门禁规则M0"
+    },
+    {
+      "node": "Docs/cell_sim-二级程序构建设计.md#2.-分层与模块边界",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-二级程序构建设计.md:59-96#2.-分层与模块边界",
+      "src_hash": "sha256:200671b1956f3de38bb7ec0595ff428a702a11359dae5786faa2a0d2f9d43a88",
+      "current_raw": 0.0679,
+      "start": 59,
+      "end": 96,
+      "anchor": "2.-分层与模块边界"
+    },
+    {
+      "node": "Docs/cell_sim-二级程序构建设计.md#3.-程序层设定-回溯通道-概念流总表",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-二级程序构建设计.md:97-117#3.-程序层设定-回溯通道-概念流总表",
+      "src_hash": "sha256:4d26b82cac4f37efbf136b1e7474d42c3aec15ab05c29d859c13cf946488a416",
+      "current_raw": 0.0679,
+      "start": 97,
+      "end": 117,
+      "anchor": "3.-程序层设定-回溯通道-概念流总表"
+    },
+    {
+      "node": "Docs/cell_sim-二级程序构建设计.md#4.-接口载荷bridge",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-二级程序构建设计.md:118-137#4.-接口载荷bridge",
+      "src_hash": "sha256:2378a8d6b158796f383f25ce57b47eaab7a414673b0a06b6371ab7bba4379971",
+      "current_raw": 0.0679,
+      "start": 118,
+      "end": 137,
+      "anchor": "4.-接口载荷bridge"
+    },
+    {
+      "node": "Docs/cell_sim-二级程序构建设计.md#5.-数值核与一级加法改造",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-二级程序构建设计.md:138-185#5.-数值核与一级加法改造",
+      "src_hash": "sha256:de5f6dd6b459bd9eaab293e57e441132751faea000a8f8f7090c1511034249f3",
+      "current_raw": 0.0679,
+      "start": 138,
+      "end": 185,
+      "anchor": "5.-数值核与一级加法改造"
+    },
+    {
+      "node": "Docs/cell_sim-二级程序构建设计.md#6.-数据侧-schema新增目录",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-二级程序构建设计.md:186-235#6.-数据侧-schema新增目录",
+      "src_hash": "sha256:c2363f1184aedf10d10c2b8a3264b4286b08e1d7a920f001a5183a45d98e2179",
+      "current_raw": 0.0679,
+      "start": 186,
+      "end": 235,
+      "anchor": "6.-数据侧-schema新增目录"
+    },
+    {
+      "node": "Docs/cell_sim-二级程序构建设计.md#7.-与现有代码的接缝改动点清单",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-二级程序构建设计.md:236-251#7.-与现有代码的接缝改动点清单",
+      "src_hash": "sha256:e5f5a1b731d0d24bb1a18fcc7c9dfaee4ee901fd0b3a20947d35fd281d1cf82f",
+      "current_raw": 0.0679,
+      "start": 236,
+      "end": 251,
+      "anchor": "7.-与现有代码的接缝改动点清单"
+    },
+    {
+      "node": "Docs/cell_sim-二级程序构建设计.md#8.-回归与验收硬门",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-二级程序构建设计.md:252-265#8.-回归与验收硬门",
+      "src_hash": "sha256:08521200a4d7ddea1d81f29351a5872b6488be9ebd3a397c2a94c26852a97d6f",
+      "current_raw": 0.0679,
+      "start": 252,
+      "end": 265,
+      "anchor": "8.-回归与验收硬门"
+    },
+    {
+      "node": "Docs/cell_sim-二级程序构建设计.md#9.-未决项与门禁豁免",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-二级程序构建设计.md:266-296#9.-未决项与门禁豁免",
+      "src_hash": "sha256:085eb0d6d3694a93666c2e059a5c73ee49220cc12cdf503e614e27526aeefd77",
+      "current_raw": 0.0679,
+      "start": 266,
+      "end": 296,
+      "anchor": "9.-未决项与门禁豁免"
+    },
+    {
+      "node": "Docs/cell_sim-二级程序构建设计.md#10.-M1-构建规格接口层-机体层-一级加法",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-二级程序构建设计.md:297-399#10.-M1-构建规格接口层-机体层-一级加法",
+      "src_hash": "sha256:32bbe81268295c6a79ddfc22a25fa93e267de623d4e7180d451ff3072f56eb9d",
+      "current_raw": 0.0679,
+      "start": 297,
+      "end": 399,
+      "anchor": "10.-M1-构建规格接口层-机体层-一级加法"
+    },
+    {
+      "node": "Docs/cell_sim-二级程序构建设计.md#11.-M2-构建规格视图层",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-二级程序构建设计.md:400-468#11.-M2-构建规格视图层",
+      "src_hash": "sha256:96bbb75e213c5f33926b5e143edcab8277c6f6c6b715ff46ca8c53877e806635",
+      "current_raw": 0.0679,
+      "start": 400,
+      "end": 468,
+      "anchor": "11.-M2-构建规格视图层"
+    },
+    {
+      "node": "Docs/cell_sim-二级程序构建设计.md#12.-M3-构建规格产出层",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-二级程序构建设计.md:469-520#12.-M3-构建规格产出层",
+      "src_hash": "sha256:23efaef0a619aef8ce9adabb8b7693cb3053c84cf47b8f91afdd9685c450aa59",
+      "current_raw": 0.0679,
+      "start": 469,
+      "end": 520,
+      "anchor": "12.-M3-构建规格产出层"
+    },
+    {
+      "node": "Docs/cell_sim-二级程序构建设计.md#13.-版本历史",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-二级程序构建设计.md:521-538#13.-版本历史",
+      "src_hash": "sha256:7b66496642448d0e51f03da3f2f91c555a88eaaa0ea18f5b2a2387661332bd56",
+      "current_raw": 0.0679,
+      "start": 521,
+      "end": 538,
+      "anchor": "13.-版本历史"
+    }
+  ],
+  "Docs/cell_sim-二级物理医学概念流程蓝图.md": [
+    {
+      "node": "Docs/cell_sim-二级物理医学概念流程蓝图.md#前言",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-二级物理医学概念流程蓝图.md:1-22#前言",
+      "src_hash": "sha256:dd113c93bb3631ae8a781b6f44431c76af7ba555db9b64bde2ecec6f1414479b",
+      "current_raw": 0.0683,
+      "start": 1,
+      "end": 22,
+      "anchor": "前言"
+    },
+    {
+      "node": "Docs/cell_sim-二级物理医学概念流程蓝图.md#0.-定盘二级在物理上是什么",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-二级物理医学概念流程蓝图.md:23-45#0.-定盘二级在物理上是什么",
+      "src_hash": "sha256:cb2f7f73c2501e47b261dc47d1cb6111aa5c15fdb7abeccc2ef73c7606434395",
+      "current_raw": 0.0683,
+      "start": 23,
+      "end": 45,
+      "anchor": "0.-定盘二级在物理上是什么"
+    },
+    {
+      "node": "Docs/cell_sim-二级物理医学概念流程蓝图.md#1.-概念流程总图",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-二级物理医学概念流程蓝图.md:46-88#1.-概念流程总图",
+      "src_hash": "sha256:2f56e323ba3471f37d2b84b4fd42746d77155d11d9e9b1ee1a66570ef58a3e1e",
+      "current_raw": 0.0683,
+      "start": 46,
+      "end": 88,
+      "anchor": "1.-概念流程总图"
+    },
+    {
+      "node": "Docs/cell_sim-二级物理医学概念流程蓝图.md#2.-物质流主链逐段医学概念与落点",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-二级物理医学概念流程蓝图.md:89-143#2.-物质流主链逐段医学概念与落点",
+      "src_hash": "sha256:d34969ddba8a8769e4653c38506d0da698b279108efec6c5c44e14d58af0f67f",
+      "current_raw": 0.0683,
+      "start": 89,
+      "end": 143,
+      "anchor": "2.-物质流主链逐段医学概念与落点"
+    },
+    {
+      "node": "Docs/cell_sim-二级物理医学概念流程蓝图.md#3.-暴露的医学定义-两级的真正接口概念",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-二级物理医学概念流程蓝图.md:144-158#3.-暴露的医学定义-两级的真正接口概念",
+      "src_hash": "sha256:c63f9868f2ad4e56738679df26149ad9f34a9f2b9e7a0abd012b4866baefb295",
+      "current_raw": 0.0683,
+      "start": 144,
+      "end": 158,
+      "anchor": "3.-暴露的医学定义-两级的真正接口概念"
+    },
+    {
+      "node": "Docs/cell_sim-二级物理医学概念流程蓝图.md#4.-细胞接口的医学语义两种细胞命运",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-二级物理医学概念流程蓝图.md:159-177#4.-细胞接口的医学语义两种细胞命运",
+      "src_hash": "sha256:ef7688ca4a653052cc47667556183adc7bfd41388cc0a50421506e3f9a854c28",
+      "current_raw": 0.0683,
+      "start": 159,
+      "end": 177,
+      "anchor": "4.-细胞接口的医学语义两种细胞命运"
+    },
+    {
+      "node": "Docs/cell_sim-二级物理医学概念流程蓝图.md#5.-损伤-功能闭环通道的医学图景",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-二级物理医学概念流程蓝图.md:178-194#5.-损伤-功能闭环通道的医学图景",
+      "src_hash": "sha256:414c76301f3780ea75b1de9e8c81636e16f1347868f5b36b14cfa79e65de028f",
+      "current_raw": 0.0683,
+      "start": 178,
+      "end": 194,
+      "anchor": "5.-损伤-功能闭环通道的医学图景"
+    },
+    {
+      "node": "Docs/cell_sim-二级物理医学概念流程蓝图.md#6.-恢复重复给药与蓄积通道的医学判据",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-二级物理医学概念流程蓝图.md:195-208#6.-恢复重复给药与蓄积通道的医学判据",
+      "src_hash": "sha256:a7fdd4c967a1df8ff0bb761fbdfd0c8aab130d2951182d08c78b1d03986d84bf",
+      "current_raw": 0.0683,
+      "start": 195,
+      "end": 208,
+      "anchor": "6.-恢复重复给药与蓄积通道的医学判据"
+    },
+    {
+      "node": "Docs/cell_sim-二级物理医学概念流程蓝图.md#7.-守恒责任的账本分册表达",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-二级物理医学概念流程蓝图.md:209-227#7.-守恒责任的账本分册表达",
+      "src_hash": "sha256:235f589fbc50b259a1a6977e300dd52940ea8d8e4e6dfc7da6ddb40b3da7057c",
+      "current_raw": 0.0683,
+      "start": 209,
+      "end": 227,
+      "anchor": "7.-守恒责任的账本分册表达"
+    },
+    {
+      "node": "Docs/cell_sim-二级物理医学概念流程蓝图.md#8.-医学概念-通道-持有者-总映射",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-二级物理医学概念流程蓝图.md:228-245#8.-医学概念-通道-持有者-总映射",
+      "src_hash": "sha256:eeaceb37792feab8c1d8bf2872582fbd48f7149be21aac60a693cfff1f28bc8a",
+      "current_raw": 0.0683,
+      "start": 228,
+      "end": 245,
+      "anchor": "8.-医学概念-通道-持有者-总映射"
+    },
+    {
+      "node": "Docs/cell_sim-二级物理医学概念流程蓝图.md#9.-概念收口点评审稿开放点设计方拍板后收口并进版本历史",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-二级物理医学概念流程蓝图.md:246-257#9.-概念收口点评审稿开放点设计方拍板后收口并进版本历史",
+      "src_hash": "sha256:8f075a6a3e1d356ee111a2a2d13c347069961a48169b0d5a383b9f0d549c0c4a",
+      "current_raw": 0.0683,
+      "start": 246,
+      "end": 257,
+      "anchor": "9.-概念收口点评审稿开放点设计方拍板后收口并进版本历史"
+    },
+    {
+      "node": "Docs/cell_sim-二级物理医学概念流程蓝图.md#10.-对程序层的约束声明",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-二级物理医学概念流程蓝图.md:258-268#10.-对程序层的约束声明",
+      "src_hash": "sha256:f75ab484acaaedf7200f8e3f34fda9b5ab08a6dc93f080c562d3a5b1a455de1e",
+      "current_raw": 0.0683,
+      "start": 258,
+      "end": 268,
+      "anchor": "10.-对程序层的约束声明"
+    }
+  ],
+  "Docs/cell_sim-两级概念对接契约.md": [
+    {
+      "node": "Docs/cell_sim-两级概念对接契约.md#前言",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-两级概念对接契约.md:1-41#前言",
+      "src_hash": "sha256:4e9c45d8f1e75b2ea2a7991a949e58958a94f2dee20ac3aac1f519337dd0f287",
+      "current_raw": 0.0615,
+      "start": 1,
+      "end": 41,
+      "anchor": "前言"
+    },
+    {
+      "node": "Docs/cell_sim-两级概念对接契约.md#0.-定盘两级是什么",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-两级概念对接契约.md:42-51#0.-定盘两级是什么",
+      "src_hash": "sha256:f5345d9acf6149c2faafb2f0794205b69b36e31d2de84e1be5f9752d18596e88",
+      "current_raw": 0.0615,
+      "start": 42,
+      "end": 51,
+      "anchor": "0.-定盘两级是什么"
+    },
+    {
+      "node": "Docs/cell_sim-两级概念对接契约.md#1.-不变量-P0-分离不变量下游逐字引用硬约束",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-两级概念对接契约.md:52-67#1.-不变量-P0-分离不变量下游逐字引用硬约束",
+      "src_hash": "sha256:93e8eb92f4a9c9dbfcf1b122e910d7f1f0f136c0aa19536f78e507493d9e624b",
+      "current_raw": 0.0615,
+      "start": 52,
+      "end": 67,
+      "anchor": "1.-不变量-P0-分离不变量下游逐字引用硬约束"
+    },
+    {
+      "node": "Docs/cell_sim-两级概念对接契约.md#2.-接口面-通道两级之间的唯一耦合面",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-两级概念对接契约.md:68-104#2.-接口面-通道两级之间的唯一耦合面",
+      "src_hash": "sha256:93f2ca0979f8469d4cc59b43661561caba41ff91c582e10fd85d1ef39dd2dda5",
+      "current_raw": 0.0615,
+      "start": 68,
+      "end": 104,
+      "anchor": "2.-接口面-通道两级之间的唯一耦合面"
+    },
+    {
+      "node": "Docs/cell_sim-两级概念对接契约.md#3.-原则-P0P3",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-两级概念对接契约.md:105-118#3.-原则-P0P3",
+      "src_hash": "sha256:8190b7b3c354628c2cf0bf2c0041e80176aebeeb07e841eb5a0eb6f00cebe668",
+      "current_raw": 0.0615,
+      "start": 105,
+      "end": 118,
+      "anchor": "3.-原则-P0P3"
+    },
+    {
+      "node": "Docs/cell_sim-两级概念对接契约.md#4.-变更规范-AC-推断",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-两级概念对接契约.md:119-135#4.-变更规范-AC-推断",
+      "src_hash": "sha256:b8348aeb1ac4a4b7fe715b9b42be819493f7b2aac05dc0cc4cdc17c02b761dca",
+      "current_raw": 0.0615,
+      "start": 119,
+      "end": 135,
+      "anchor": "4.-变更规范-AC-推断"
+    },
+    {
+      "node": "Docs/cell_sim-两级概念对接契约.md#5.-时间尺度与语义护栏-推断",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-两级概念对接契约.md:136-148#5.-时间尺度与语义护栏-推断",
+      "src_hash": "sha256:9a2f8db603c48a0f6e67d94bb84aa4fda6a32d68351a944efba17fa50c683958",
+      "current_raw": 0.0615,
+      "start": 136,
+      "end": 148,
+      "anchor": "5.-时间尺度与语义护栏-推断"
+    },
+    {
+      "node": "Docs/cell_sim-两级概念对接契约.md#6.-命名与引用锚跨域唯一性",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-两级概念对接契约.md:149-157#6.-命名与引用锚跨域唯一性",
+      "src_hash": "sha256:ffa2d7fb2fbcfa7f1e72747e40e005b2b5985cb267d89c03ce4e2e0702c2857a",
+      "current_raw": 0.0615,
+      "start": 149,
+      "end": 157,
+      "anchor": "6.-命名与引用锚跨域唯一性"
+    },
+    {
+      "node": "Docs/cell_sim-两级概念对接契约.md#7.-版本与修订蓝图-10-明确与契约-7-同则",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-两级概念对接契约.md:158-170#7.-版本与修订蓝图-10-明确与契约-7-同则",
+      "src_hash": "sha256:117876e552b5f2c3094085e26af2d96e57a3000244597dc8f5ba9b910165f848",
+      "current_raw": 0.0615,
+      "start": 158,
+      "end": 170,
+      "anchor": "7.-版本与修订蓝图-10-明确与契约-7-同则"
+    },
+    {
+      "node": "Docs/cell_sim-两级概念对接契约.md#8.-与配套文档的关系回溯链",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-两级概念对接契约.md:171-190#8.-与配套文档的关系回溯链",
+      "src_hash": "sha256:4db9f51195d46c96a0627534c1323261f761f5d37c86be833856135c780bcc71",
+      "current_raw": 0.0615,
+      "start": 171,
+      "end": 190,
+      "anchor": "8.-与配套文档的关系回溯链"
+    },
+    {
+      "node": "Docs/cell_sim-两级概念对接契约.md#附-A.-本重建稿的不确定项须原文校准",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-两级概念对接契约.md:191-201#附-A.-本重建稿的不确定项须原文校准",
+      "src_hash": "sha256:1456280fc70bfb6efd781d2f0f1ed2d4cfcc68519bd25b3cda6ce03f229266db",
+      "current_raw": 0.0615,
+      "start": 191,
+      "end": 201,
+      "anchor": "附-A.-本重建稿的不确定项须原文校准"
+    },
+    {
+      "node": "Docs/cell_sim-两级概念对接契约.md#附-B.-与蓝图开放点的对应",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-两级概念对接契约.md:202-213#附-B.-与蓝图开放点的对应",
+      "src_hash": "sha256:e348b861b4a09776eb7449630e476a66f48f6a18b64494c7a44a3453fbe0d07f",
+      "current_raw": 0.0615,
+      "start": 202,
+      "end": 213,
+      "anchor": "附-B.-与蓝图开放点的对应"
+    },
+    {
+      "node": "Docs/cell_sim-两级概念对接契约.md#附-C.-重估记录2026-09-10-项目文件变动后",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-两级概念对接契约.md:214-261#附-C.-重估记录2026-09-10-项目文件变动后",
+      "src_hash": "sha256:0a2a8e6c7b192b18ecd8107a8af622043f78e919945ffdde041c16383f707219",
+      "current_raw": 0.0615,
+      "start": 214,
+      "end": 261,
+      "anchor": "附-C.-重估记录2026-09-10-项目文件变动后"
+    }
+  ],
+  "Docs/cell_sim-细胞与ECM库设计.md": [
+    {
+      "node": "Docs/cell_sim-细胞与ECM库设计.md#前言",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-细胞与ECM库设计.md:1-35#前言",
+      "src_hash": "sha256:3cafede02ce9de1d498fb2e33baf0e218bc4defb34f5e04111abc868bd5f0fa2",
+      "current_raw": 0.048,
+      "start": 1,
+      "end": 35,
+      "anchor": "前言"
+    },
+    {
+      "node": "Docs/cell_sim-细胞与ECM库设计.md#0.-定位",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-细胞与ECM库设计.md:36-46#0.-定位",
+      "src_hash": "sha256:f7272b793944162a267c627d2ee82258988c29ad57f449e49ad8613730b7934c",
+      "current_raw": 0.048,
+      "start": 36,
+      "end": 46,
+      "anchor": "0.-定位"
+    },
+    {
+      "node": "Docs/cell_sim-细胞与ECM库设计.md#1.-库单元cell_class-的定义",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-细胞与ECM库设计.md:47-59#1.-库单元cell_class-的定义",
+      "src_hash": "sha256:613199896fc92afa221f6592e1c5665e68ccfe54a6a39c66442d53f6a879feac",
+      "current_raw": 0.048,
+      "start": 47,
+      "end": 59,
+      "anchor": "1.-库单元cell_class-的定义"
+    },
+    {
+      "node": "Docs/cell_sim-细胞与ECM库设计.md#2.-档案的组织与继承",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-细胞与ECM库设计.md:60-73#2.-档案的组织与继承",
+      "src_hash": "sha256:5ba0853abcdb816e170e7d5559519cf4d5291f083c94524501cc324e9b1f1e93",
+      "current_raw": 0.048,
+      "start": 60,
+      "end": 73,
+      "anchor": "2.-档案的组织与继承"
+    },
+    {
+      "node": "Docs/cell_sim-细胞与ECM库设计.md#3.-_base-参考细胞现-data-12-亚体合成视图",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-细胞与ECM库设计.md:74-86#3.-_base-参考细胞现-data-12-亚体合成视图",
+      "src_hash": "sha256:32b27aa15cf9c61d25805bbb22dc5a452d03143c8055f3d34f4a86ec9d24dc9f",
+      "current_raw": 0.048,
+      "start": 74,
+      "end": 86,
+      "anchor": "3.-_base-参考细胞现-data-12-亚体合成视图"
+    },
+    {
+      "node": "Docs/cell_sim-细胞与ECM库设计.md#4.-建档流水线样板已跑通",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-细胞与ECM库设计.md:87-104#4.-建档流水线样板已跑通",
+      "src_hash": "sha256:644b82bd33a91cdd6e23e6118d7368964bb2f5ece590392ddc5f379ea788f992",
+      "current_raw": 0.048,
+      "start": 87,
+      "end": 104,
+      "anchor": "4.-建档流水线样板已跑通"
+    },
+    {
+      "node": "Docs/cell_sim-细胞与ECM库设计.md#5.-cell.yaml-schema下游指向本节",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-细胞与ECM库设计.md:105-136#5.-cell.yaml-schema下游指向本节",
+      "src_hash": "sha256:5dd186344c37b3fbc735d3a44b01bbe93e8fe8a75e7bf0e81fac8cd34b4bcc8e",
+      "current_raw": 0.048,
+      "start": 105,
+      "end": 136,
+      "anchor": "5.-cell.yaml-schema下游指向本节"
+    },
+    {
+      "node": "Docs/cell_sim-细胞与ECM库设计.md#6.-命名与引用锚",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-细胞与ECM库设计.md:137-144#6.-命名与引用锚",
+      "src_hash": "sha256:468493efef800a0792f8c6d2229f097d0a904a2e18f05591d23c79990b54ff6e",
+      "current_raw": 0.048,
+      "start": 137,
+      "end": 144,
+      "anchor": "6.-命名与引用锚"
+    },
+    {
+      "node": "Docs/cell_sim-细胞与ECM库设计.md#7.-程序层护栏每档建档-接入必过",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-细胞与ECM库设计.md:145-161#7.-程序层护栏每档建档-接入必过",
+      "src_hash": "sha256:9da0d8c228bd72562940ce06a587d939ce71284d121d118560be8c712c95527b",
+      "current_raw": 0.048,
+      "start": 145,
+      "end": 161,
+      "anchor": "7.-程序层护栏每档建档-接入必过"
+    },
+    {
+      "node": "Docs/cell_sim-细胞与ECM库设计.md#8.-不可达原则v0.3-硬则",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-细胞与ECM库设计.md:162-172#8.-不可达原则v0.3-硬则",
+      "src_hash": "sha256:6c468d4bcf92633f1a259b4291d122d81265bd6fa385f32a3dea9d91440001ff",
+      "current_raw": 0.048,
+      "start": 162,
+      "end": 172,
+      "anchor": "8.-不可达原则v0.3-硬则"
+    },
+    {
+      "node": "Docs/cell_sim-细胞与ECM库设计.md#9.-向二级的交付接口下游指向本节",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-细胞与ECM库设计.md:173-190#9.-向二级的交付接口下游指向本节",
+      "src_hash": "sha256:c3a628812d43ad5eb56d07ca46dc17b592dfc008b3b42974b0b692d9f334c835",
+      "current_raw": 0.048,
+      "start": 173,
+      "end": 190,
+      "anchor": "9.-向二级的交付接口下游指向本节"
+    },
+    {
+      "node": "Docs/cell_sim-细胞与ECM库设计.md#10.-介质型外场流体型-ECM",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-细胞与ECM库设计.md:191-204#10.-介质型外场流体型-ECM",
+      "src_hash": "sha256:cae34b4cb0e089afd24da8d2e92fbe7c3b9d94e1df1e076cd8681bec75347e90",
+      "current_raw": 0.048,
+      "start": 191,
+      "end": 204,
+      "anchor": "10.-介质型外场流体型-ECM"
+    },
+    {
+      "node": "Docs/cell_sim-细胞与ECM库设计.md#11.-边界占位与待定",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-细胞与ECM库设计.md:205-217#11.-边界占位与待定",
+      "src_hash": "sha256:1c2564bf9bf11fa519cd2c795f431ca3ed646f3e2050b3a14747c83fb4e2d1d3",
+      "current_raw": 0.048,
+      "start": 205,
+      "end": 217,
+      "anchor": "11.-边界占位与待定"
+    },
+    {
+      "node": "Docs/cell_sim-细胞与ECM库设计.md#附-A.-本重建稿的不确定项须原文校准",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-细胞与ECM库设计.md:218-230#附-A.-本重建稿的不确定项须原文校准",
+      "src_hash": "sha256:9c3abb7ba47f7e9735e073e567d73adb8e876440e8f6b3f82eed670621c695e5",
+      "current_raw": 0.048,
+      "start": 218,
+      "end": 230,
+      "anchor": "附-A.-本重建稿的不确定项须原文校准"
+    },
+    {
+      "node": "Docs/cell_sim-细胞与ECM库设计.md#附-B.-重估记录2026-09-10-项目文件变动后",
+      "ref": "proj://codebuddyCELL/Docs/cell_sim-细胞与ECM库设计.md:231-268#附-B.-重估记录2026-09-10-项目文件变动后",
+      "src_hash": "sha256:197b892b0b22f15e89a3ddd2d821593ba740b9fe1dbeda473d4cb77aebc3886b",
+      "current_raw": 0.048,
+      "start": 231,
+      "end": 268,
+      "anchor": "附-B.-重估记录2026-09-10-项目文件变动后"
+    }
+  ]
+}

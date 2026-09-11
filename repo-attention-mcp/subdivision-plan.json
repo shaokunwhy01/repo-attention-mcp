@@ -1,0 +1,12 @@
+{
+  "generated_ts": "2026-09-11T07:58:17Z",
+  "repo": "B:\\codebuddyCELL",
+  "K_file": 5,
+  "K_line": 250,
+  "note": "本 plan 由 scripts/subdivide-plan.mjs 机械生成；执行回填请用 note(kind=\"score\", why:\"split\") 一个可实施点。",
+  "src_hash_note": "src_hash 字段 = hashEvidence([ref]).src_hash（note 校验所需，比「区间 src_hash」多包一层 sha256）。规则 resolution-subdivision.md 第四节将其误写为 hashRef —— 以此 plan 的 src_hash 为准，或修正规则。",
+  "total_over_size": 0,
+  "excluded": [],
+  "excluded_count": 0,
+  "leaves": []
+}
